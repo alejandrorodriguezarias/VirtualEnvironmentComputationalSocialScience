@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using TriangleNet.Topology;
 using Newtonsoft.Json;
 using TriangleNet.Geometry;
-
+using SEGAR;
 public class EnvironmentGeneratorACoruña : EnvironmentGenerator
 {
 
