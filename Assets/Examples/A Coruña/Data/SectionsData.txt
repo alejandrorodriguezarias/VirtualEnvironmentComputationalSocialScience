@@ -1,7 +1,6 @@
 {
    "sectionsData":[
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10858,
             "secRef":"1503001001",
@@ -17,7 +16,6 @@
             "Shape_len":1796.6169036399999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.39591389125016,
@@ -363,7 +361,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10859,
             "secRef":"1503001002",
@@ -379,7 +376,6 @@
             "Shape_len":977.67288778199998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.399258677845971,
@@ -629,7 +625,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10860,
             "secRef":"1503001003",
@@ -645,7 +640,6 @@
             "Shape_len":968.87834487700002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.394806652134484,
@@ -855,7 +849,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10861,
             "secRef":"1503001004",
@@ -871,7 +864,6 @@
             "Shape_len":1753.4405736399999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.402378285773333,
@@ -1133,7 +1125,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10862,
             "secRef":"1503001005",
@@ -1149,7 +1140,6 @@
             "Shape_len":4327.8420951600001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.394410936130418,
@@ -1671,7 +1661,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10863,
             "secRef":"1503001006",
@@ -1687,7 +1676,6 @@
             "Shape_len":885.39188743700004
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.398439470360819,
@@ -1869,7 +1857,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10864,
             "secRef":"1503001007",
@@ -1885,7 +1872,6 @@
             "Shape_len":944.98108111800002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.402879168215117,
@@ -2003,7 +1989,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10865,
             "secRef":"1503001008",
@@ -2019,7 +2004,6 @@
             "Shape_len":1084.27467647
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.400216482725186,
@@ -2241,7 +2225,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10866,
             "secRef":"1503001009",
@@ -2257,7 +2240,6 @@
             "Shape_len":1782.3274312000001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.401633975007679,
@@ -2503,7 +2485,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10867,
             "secRef":"1503001012",
@@ -2519,7 +2500,6 @@
             "Shape_len":2402.9360361499998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.401909981635406,
@@ -2973,7 +2953,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10868,
             "secRef":"1503002001",
@@ -2989,7 +2968,6 @@
             "Shape_len":855.93261311399999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.398712629029223,
@@ -3139,7 +3117,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10869,
             "secRef":"1503002002",
@@ -3155,7 +3132,6 @@
             "Shape_len":927.73649667899997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.399599911674242,
@@ -3305,7 +3281,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10870,
             "secRef":"1503002003",
@@ -3321,7 +3296,6 @@
             "Shape_len":1807.7708817
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.404615748211084,
@@ -3535,7 +3509,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10871,
             "secRef":"1503002004",
@@ -3551,7 +3524,6 @@
             "Shape_len":571.51345507999997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.397010606250078,
@@ -3677,7 +3649,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10872,
             "secRef":"1503002005",
@@ -3693,7 +3664,6 @@
             "Shape_len":620.05022765599995
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.398095467007217,
@@ -3807,7 +3777,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10873,
             "secRef":"1503002006",
@@ -3823,7 +3792,6 @@
             "Shape_len":1007.06501674
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.398205785582578,
@@ -3973,7 +3941,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10874,
             "secRef":"1503002007",
@@ -3989,7 +3956,6 @@
             "Shape_len":1335.93265473
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.396440391532312,
@@ -4223,7 +4189,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10875,
             "secRef":"1503002008",
@@ -4239,7 +4204,6 @@
             "Shape_len":1514.02802004
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.396673274175475,
@@ -4413,7 +4377,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10876,
             "secRef":"1503002009",
@@ -4429,7 +4392,6 @@
             "Shape_len":1015.23723624
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.401109256128992,
@@ -4539,7 +4501,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10877,
             "secRef":"1503002010",
@@ -4555,7 +4516,6 @@
             "Shape_len":1002.63982058
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.401123983899415,
@@ -4661,7 +4621,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10878,
             "secRef":"1503002011",
@@ -4677,7 +4636,6 @@
             "Shape_len":1403.4524755100001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.402120214369269,
@@ -4895,7 +4853,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10879,
             "secRef":"1503002012",
@@ -4911,7 +4868,6 @@
             "Shape_len":802.77307851299997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.404133403369006,
@@ -5093,7 +5049,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10880,
             "secRef":"1503002013",
@@ -5109,7 +5064,6 @@
             "Shape_len":641.37197586699995
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.403784068143525,
@@ -5195,7 +5149,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10881,
             "secRef":"1503002014",
@@ -5211,7 +5164,6 @@
             "Shape_len":1182.86348475
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.407970204932392,
@@ -5329,7 +5281,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10882,
             "secRef":"1503002015",
@@ -5345,7 +5296,6 @@
             "Shape_len":839.22093357799997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.404225575968134,
@@ -5467,7 +5417,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10883,
             "secRef":"1503002016",
@@ -5483,7 +5432,6 @@
             "Shape_len":1339.37816159
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.406128778143264,
@@ -6013,7 +5961,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10884,
             "secRef":"1503002017",
@@ -6029,7 +5976,6 @@
             "Shape_len":935.25630195400004
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.403647761485754,
@@ -6191,7 +6137,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10885,
             "secRef":"1503002018",
@@ -6207,7 +6152,6 @@
             "Shape_len":787.27788301400005
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.401712230954956,
@@ -6313,7 +6257,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10886,
             "secRef":"1503002019",
@@ -6329,7 +6272,6 @@
             "Shape_len":466.85430218200003
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.401997450638799,
@@ -6431,7 +6373,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10887,
             "secRef":"1503002020",
@@ -6447,7 +6388,6 @@
             "Shape_len":1122.5765287199999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.410798769144053,
@@ -6557,7 +6497,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10888,
             "secRef":"1503002021",
@@ -6573,7 +6512,6 @@
             "Shape_len":2412.0189453100002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.406128778143264,
@@ -6939,7 +6877,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10889,
             "secRef":"1503002022",
@@ -6955,7 +6892,6 @@
             "Shape_len":2091.7658660699999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.396660324479528,
@@ -7453,7 +7389,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10890,
             "secRef":"1503002023",
@@ -7469,7 +7404,6 @@
             "Shape_len":5213.5497504499999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.406897099140231,
@@ -8487,7 +8421,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10891,
             "secRef":"1503003001",
@@ -8503,7 +8436,6 @@
             "Shape_len":918.50548063600002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.405716707811699,
@@ -8773,7 +8705,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10892,
             "secRef":"1503003002",
@@ -8789,7 +8720,6 @@
             "Shape_len":981.24864113499996
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.408795770443147,
@@ -8895,7 +8825,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10893,
             "secRef":"1503003003",
@@ -8911,7 +8840,6 @@
             "Shape_len":724.79865339399998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.41102045803256,
@@ -9021,7 +8949,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10894,
             "secRef":"1503003004",
@@ -9037,7 +8964,6 @@
             "Shape_len":612.08506805399998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.410396582166953,
@@ -9191,7 +9117,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10895,
             "secRef":"1503003005",
@@ -9207,7 +9132,6 @@
             "Shape_len":580.49005504700006
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.409190995150258,
@@ -9285,7 +9209,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10896,
             "secRef":"1503003006",
@@ -9301,7 +9224,6 @@
             "Shape_len":1016.31746203
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.407994148447685,
@@ -9467,7 +9389,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10897,
             "secRef":"1503003007",
@@ -9483,7 +9404,6 @@
             "Shape_len":1824.06862325
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.405716707811699,
@@ -9829,7 +9749,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10898,
             "secRef":"1503003008",
@@ -9845,7 +9764,6 @@
             "Shape_len":517.55414499899996
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.409360573480491,
@@ -10175,7 +10093,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10899,
             "secRef":"1503003009",
@@ -10191,7 +10108,6 @@
             "Shape_len":659.62046331900001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.41071522767909,
@@ -10349,7 +10265,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10900,
             "secRef":"1503003010",
@@ -10365,7 +10280,6 @@
             "Shape_len":753.83432701799995
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.408423955798662,
@@ -10495,7 +10409,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10901,
             "secRef":"1503003011",
@@ -10511,7 +10424,6 @@
             "Shape_len":678.96733797700006
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.407994148447685,
@@ -10601,7 +10513,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10902,
             "secRef":"1503003012",
@@ -10617,7 +10528,6 @@
             "Shape_len":675.89204509599995
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.408423955798662,
@@ -10707,7 +10617,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10903,
             "secRef":"1503003013",
@@ -10723,7 +10632,6 @@
             "Shape_len":909.79379195499996
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.410114851681641,
@@ -10829,7 +10737,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10904,
             "secRef":"1503003014",
@@ -10845,7 +10752,6 @@
             "Shape_len":1073.32074098
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.406343017672199,
@@ -11163,7 +11069,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10905,
             "secRef":"1503003015",
@@ -11179,7 +11084,6 @@
             "Shape_len":1158.9075678
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.402944136460803,
@@ -11529,7 +11433,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10906,
             "secRef":"1503003016",
@@ -11545,7 +11448,6 @@
             "Shape_len":1208.6187934500001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.403911445145626,
@@ -11931,7 +11833,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10907,
             "secRef":"1503003017",
@@ -11947,7 +11848,6 @@
             "Shape_len":1202.90891966
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.403886583577641,
@@ -12357,7 +12257,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10908,
             "secRef":"1503003018",
@@ -12373,7 +12272,6 @@
             "Shape_len":1146.00646342
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.402676129626109,
@@ -12911,7 +12809,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10909,
             "secRef":"1503003019",
@@ -12927,7 +12824,6 @@
             "Shape_len":640.99456026099995
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.40206421459669,
@@ -13077,7 +12973,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10910,
             "secRef":"1503003020",
@@ -13093,7 +12988,6 @@
             "Shape_len":2854.0198015699998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.401938329111818,
@@ -13455,7 +13349,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10911,
             "secRef":"1503003021",
@@ -13471,7 +13364,6 @@
             "Shape_len":566.28150843699996
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.411355118632212,
@@ -13613,7 +13505,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10912,
             "secRef":"1503003022",
@@ -13629,7 +13520,6 @@
             "Shape_len":583.73797985500005
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.40206421459669,
@@ -13691,7 +13581,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10913,
             "secRef":"1503003023",
@@ -13707,7 +13596,6 @@
             "Shape_len":2324.7576671000002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.399500864920556,
@@ -14029,7 +13917,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10914,
             "secRef":"1503004001",
@@ -14045,7 +13932,6 @@
             "Shape_len":964.84977569099999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.415737919954207,
@@ -14259,7 +14145,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10915,
             "secRef":"1503004002",
@@ -14275,7 +14160,6 @@
             "Shape_len":1888.3762067600001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.410481171956279,
@@ -14881,7 +14765,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10916,
             "secRef":"1503004003",
@@ -14897,7 +14780,6 @@
             "Shape_len":801.73454642399997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.416395701541154,
@@ -15047,7 +14929,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10917,
             "secRef":"1503004004",
@@ -15063,7 +14944,6 @@
             "Shape_len":874.78224958400006
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.418104671429701,
@@ -15229,7 +15109,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10918,
             "secRef":"1503004005",
@@ -15245,7 +15124,6 @@
             "Shape_len":565.70137375299998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.419974178012945,
@@ -15343,7 +15221,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10919,
             "secRef":"1503004006",
@@ -15359,7 +15236,6 @@
             "Shape_len":1073.57929687
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.414228251067312,
@@ -15525,7 +15401,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10920,
             "secRef":"1503004007",
@@ -15541,7 +15416,6 @@
             "Shape_len":1394.0079770699999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.411970512118558,
@@ -15839,7 +15713,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10921,
             "secRef":"1503004008",
@@ -15855,7 +15728,6 @@
             "Shape_len":767.95635057200002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.409914392515757,
@@ -16049,7 +15921,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10922,
             "secRef":"1503004009",
@@ -16065,7 +15936,6 @@
             "Shape_len":953.13756064100005
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.407565105353983,
@@ -16231,7 +16101,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10923,
             "secRef":"1503004010",
@@ -16247,7 +16116,6 @@
             "Shape_len":754.977323275
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.406082367534689,
@@ -16337,7 +16205,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10924,
             "secRef":"1503004011",
@@ -16353,7 +16220,6 @@
             "Shape_len":748.44562414899997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.408878214473386,
@@ -16463,7 +16329,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10925,
             "secRef":"1503004012",
@@ -16479,7 +16344,6 @@
             "Shape_len":673.32975906599995
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.410466340593718,
@@ -16581,7 +16445,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10926,
             "secRef":"1503004013",
@@ -16597,7 +16460,6 @@
             "Shape_len":857.79305842300005
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.412490569629997,
@@ -16751,7 +16613,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10927,
             "secRef":"1503004014",
@@ -16767,7 +16628,6 @@
             "Shape_len":502.46144714899998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.414173164388451,
@@ -16861,7 +16721,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10928,
             "secRef":"1503004015",
@@ -16877,7 +16736,6 @@
             "Shape_len":489.57423331899997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.417090587806623,
@@ -16967,7 +16825,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10929,
             "secRef":"1503004016",
@@ -16983,7 +16840,6 @@
             "Shape_len":450.20718194199998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.417699736156933,
@@ -17077,7 +16933,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10930,
             "secRef":"1503004017",
@@ -17093,7 +16948,6 @@
             "Shape_len":649.92168685700005
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.408583049566321,
@@ -17219,7 +17073,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10931,
             "secRef":"1503004018",
@@ -17235,7 +17088,6 @@
             "Shape_len":1124.0247103500001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.406071123887763,
@@ -17633,7 +17485,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10932,
             "secRef":"1503004019",
@@ -17649,7 +17500,6 @@
             "Shape_len":620.74981274699996
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.411898815142269,
@@ -17755,7 +17605,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10933,
             "secRef":"1503004020",
@@ -17771,7 +17620,6 @@
             "Shape_len":2046.83913444
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.4092203335119,
@@ -18081,7 +17929,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10934,
             "secRef":"1503004021",
@@ -18097,7 +17944,6 @@
             "Shape_len":618.579641756
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.413640888595751,
@@ -18203,7 +18049,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10935,
             "secRef":"1503004022",
@@ -18219,7 +18064,6 @@
             "Shape_len":573.215794921
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.414424124604878,
@@ -18309,7 +18153,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10936,
             "secRef":"1503004023",
@@ -18325,7 +18168,6 @@
             "Shape_len":760.133127317
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.414424124604878,
@@ -18487,7 +18329,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10937,
             "secRef":"1503004024",
@@ -18503,7 +18344,6 @@
             "Shape_len":945.35984327400001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.413111533353836,
@@ -18645,7 +18485,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10938,
             "secRef":"1503004025",
@@ -18661,7 +18500,6 @@
             "Shape_len":566.03112880599997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.411405863765847,
@@ -18731,7 +18569,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10939,
             "secRef":"1503004026",
@@ -18747,7 +18584,6 @@
             "Shape_len":464.88695571599999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.41923038800944,
@@ -18821,7 +18657,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10940,
             "secRef":"1503004028",
@@ -18837,7 +18672,6 @@
             "Shape_len":634.50834930899998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.41590083170415,
@@ -18939,7 +18773,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10941,
             "secRef":"1503004029",
@@ -18955,7 +18788,6 @@
             "Shape_len":562.45682676499996
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.413294512581304,
@@ -19033,7 +18865,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10942,
             "secRef":"1503005001",
@@ -19049,7 +18880,6 @@
             "Shape_len":857.59868776099995
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.410572833590065,
@@ -19155,7 +18985,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10943,
             "secRef":"1503005002",
@@ -19171,7 +19000,6 @@
             "Shape_len":1815.77376564
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.412374548067394,
@@ -19417,7 +19245,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10944,
             "secRef":"1503005003",
@@ -19433,7 +19260,6 @@
             "Shape_len":1015.55713784
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.410793125912226,
@@ -19607,7 +19433,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10945,
             "secRef":"1503005004",
@@ -19623,7 +19448,6 @@
             "Shape_len":1376.2930809300001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.41374897749534,
@@ -20077,7 +19901,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10946,
             "secRef":"1503005005",
@@ -20093,7 +19916,6 @@
             "Shape_len":2283.8436643099999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.414191165925915,
@@ -20643,7 +20465,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10947,
             "secRef":"1503005006",
@@ -20659,7 +20480,6 @@
             "Shape_len":2310.4499700900001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.41720048741416,
@@ -21121,7 +20941,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10948,
             "secRef":"1503005007",
@@ -21137,7 +20956,6 @@
             "Shape_len":810.28772589300002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.422200650555073,
@@ -21327,7 +21145,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10949,
             "secRef":"1503005008",
@@ -21343,7 +21160,6 @@
             "Shape_len":1549.0281654200001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.425268819928679,
@@ -21565,7 +21381,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10950,
             "secRef":"1503005009",
@@ -21581,7 +21396,6 @@
             "Shape_len":1129.1837036
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.41909720959007,
@@ -21859,7 +21673,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10951,
             "secRef":"1503005010",
@@ -21875,7 +21688,6 @@
             "Shape_len":1666.5742624699999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.41909720959007,
@@ -22201,7 +22013,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10952,
             "secRef":"1503005011",
@@ -22217,7 +22028,6 @@
             "Shape_len":7737.8587763799997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.423184686839946,
@@ -23507,7 +23317,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10953,
             "secRef":"1503005012",
@@ -23523,7 +23332,6 @@
             "Shape_len":3725.09573228
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.428208603805961,
@@ -24253,7 +24061,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10954,
             "secRef":"1503005013",
@@ -24269,7 +24076,6 @@
             "Shape_len":742.22567121500003
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.410363840528646,
@@ -24471,7 +24277,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10955,
             "secRef":"1503005014",
@@ -24487,7 +24292,6 @@
             "Shape_len":1995.05865236
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.412898006339374,
@@ -24865,7 +24669,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10956,
             "secRef":"1503005015",
@@ -24881,7 +24684,6 @@
             "Shape_len":1123.61946313
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.420019085550589,
@@ -25251,7 +25053,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10957,
             "secRef":"1503005016",
@@ -25267,7 +25068,6 @@
             "Shape_len":887.18561497600001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.42176559500003,
@@ -25553,7 +25353,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10958,
             "secRef":"1503005017",
@@ -25569,7 +25368,6 @@
             "Shape_len":1550.2276455199999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.42874282300034,
@@ -26111,7 +25909,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10959,
             "secRef":"1503005018",
@@ -26127,7 +25924,6 @@
             "Shape_len":1953.11704076
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.431089137542248,
@@ -26481,7 +26277,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10960,
             "secRef":"1503005019",
@@ -26497,7 +26292,6 @@
             "Shape_len":956.24471009700005
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.436557808143558,
@@ -26627,7 +26421,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10961,
             "secRef":"1503005020",
@@ -26643,7 +26436,6 @@
             "Shape_len":1982.4330917899999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.428783046952004,
@@ -27013,7 +26805,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10962,
             "secRef":"1503005021",
@@ -27029,7 +26820,6 @@
             "Shape_len":940.90580541400004
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.431835287306278,
@@ -27143,7 +26933,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10963,
             "secRef":"1503005022",
@@ -27159,7 +26948,6 @@
             "Shape_len":2235.6526019900002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.433463714581098,
@@ -27537,7 +27325,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10964,
             "secRef":"1503006001",
@@ -27553,7 +27340,6 @@
             "Shape_len":1217.61170352
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.418324777961979,
@@ -27707,7 +27493,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10965,
             "secRef":"1503006002",
@@ -27723,7 +27508,6 @@
             "Shape_len":662.69570138100005
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.418777079935385,
@@ -27805,7 +27589,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10966,
             "secRef":"1503006003",
@@ -27821,7 +27604,6 @@
             "Shape_len":573.32320177600002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.419581533736032,
@@ -27967,7 +27749,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10967,
             "secRef":"1503006004",
@@ -27983,7 +27764,6 @@
             "Shape_len":541.21242313699997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.418113716738253,
@@ -28033,7 +27813,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10968,
             "secRef":"1503006005",
@@ -28049,7 +27828,6 @@
             "Shape_len":610.87832711900001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.421346838081497,
@@ -28115,7 +27893,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10969,
             "secRef":"1503006006",
@@ -28131,7 +27908,6 @@
             "Shape_len":687.40660701900003
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.420396406073163,
@@ -28293,7 +28069,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10970,
             "secRef":"1503006007",
@@ -28309,7 +28084,6 @@
             "Shape_len":574.71290159800003
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.422780669571674,
@@ -28387,7 +28161,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10971,
             "secRef":"1503006008",
@@ -28403,7 +28176,6 @@
             "Shape_len":802.257084932
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.419581533736032,
@@ -28513,7 +28285,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10972,
             "secRef":"1503006009",
@@ -28529,7 +28300,6 @@
             "Shape_len":643.85263702300006
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.419861746278995,
@@ -28619,7 +28389,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10973,
             "secRef":"1503006010",
@@ -28635,7 +28404,6 @@
             "Shape_len":626.095696976
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.42259102686276,
@@ -28705,7 +28473,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10974,
             "secRef":"1503006011",
@@ -28721,7 +28488,6 @@
             "Shape_len":450.46569136300002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.42055936030722,
@@ -28787,7 +28553,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10975,
             "secRef":"1503006012",
@@ -28803,7 +28568,6 @@
             "Shape_len":639.57007002499995
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.423895306058784,
@@ -28873,7 +28637,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10976,
             "secRef":"1503006013",
@@ -28889,7 +28652,6 @@
             "Shape_len":410.19930846599999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.423058765585338,
@@ -29075,7 +28837,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10977,
             "secRef":"1503006014",
@@ -29091,7 +28852,6 @@
             "Shape_len":658.52694839799994
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.423872950680211,
@@ -29333,7 +29093,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10978,
             "secRef":"1503006015",
@@ -29349,7 +29108,6 @@
             "Shape_len":837.55661222200001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.420968425105853,
@@ -29499,7 +29257,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10979,
             "secRef":"1503006016",
@@ -29515,7 +29272,6 @@
             "Shape_len":608.88866180399998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.422698339966168,
@@ -29845,7 +29601,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10980,
             "secRef":"1503006017",
@@ -29861,7 +29616,6 @@
             "Shape_len":756.19336300500004
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.416351377288951,
@@ -29975,7 +29729,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10981,
             "secRef":"1503006018",
@@ -29991,7 +29744,6 @@
             "Shape_len":569.16639762299997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.417895438129408,
@@ -30105,7 +29857,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10982,
             "secRef":"1503006019",
@@ -30121,7 +29872,6 @@
             "Shape_len":565.93654254700004
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.41997074544806,
@@ -30191,7 +29941,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10983,
             "secRef":"1503006020",
@@ -30207,7 +29956,6 @@
             "Shape_len":566.30416116100002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.422584584852475,
@@ -30261,7 +30009,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10984,
             "secRef":"1503006021",
@@ -30277,7 +30024,6 @@
             "Shape_len":474.636426809
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.422308887417927,
@@ -30343,7 +30089,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10985,
             "secRef":"1503006022",
@@ -30359,7 +30104,6 @@
             "Shape_len":418.2174802
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.421961065057047,
@@ -30417,7 +30161,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10986,
             "secRef":"1503006023",
@@ -30433,7 +30176,6 @@
             "Shape_len":623.70418684100002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.423591070769795,
@@ -30519,7 +30261,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10987,
             "secRef":"1503007001",
@@ -30535,7 +30276,6 @@
             "Shape_len":805.725386942
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.393753363172385,
@@ -30665,7 +30405,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10988,
             "secRef":"1503007002",
@@ -30681,7 +30420,6 @@
             "Shape_len":883.99467054000002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.390895351652738,
@@ -31035,7 +30773,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10989,
             "secRef":"1503007003",
@@ -31051,7 +30788,6 @@
             "Shape_len":710.57630207700004
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.394591805415098,
@@ -31413,7 +31149,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10990,
             "secRef":"1503007004",
@@ -31429,7 +31164,6 @@
             "Shape_len":768.19743969700005
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.390693688869641,
@@ -31811,7 +31545,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10991,
             "secRef":"1503007005",
@@ -31827,7 +31560,6 @@
             "Shape_len":690.49952765399996
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.394984912640325,
@@ -32089,7 +31821,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10992,
             "secRef":"1503007006",
@@ -32105,7 +31836,6 @@
             "Shape_len":1049.9951357299999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.388520643752907,
@@ -32407,7 +32137,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10993,
             "secRef":"1503007007",
@@ -32423,7 +32152,6 @@
             "Shape_len":866.13451374800002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.394682335276357,
@@ -32661,7 +32389,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10994,
             "secRef":"1503007008",
@@ -32677,7 +32404,6 @@
             "Shape_len":1312.00687685
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.396834131366898,
@@ -33463,7 +33189,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10995,
             "secRef":"1503007009",
@@ -33479,7 +33204,6 @@
             "Shape_len":1578.0937522199999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.402676129626109,
@@ -33933,7 +33657,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10996,
             "secRef":"1503007010",
@@ -33949,7 +33672,6 @@
             "Shape_len":802.427393575
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.40065778372162,
@@ -34099,7 +33821,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10997,
             "secRef":"1503007011",
@@ -34115,7 +33836,6 @@
             "Shape_len":928.75736814699997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.396891579203633,
@@ -34317,7 +34037,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10998,
             "secRef":"1503007012",
@@ -34333,7 +34052,6 @@
             "Shape_len":1172.7262036499999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.400626327287013,
@@ -34547,7 +34265,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":10999,
             "secRef":"1503007013",
@@ -34563,7 +34280,6 @@
             "Shape_len":1721.6471240200001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.38962937022284,
@@ -34937,7 +34653,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11000,
             "secRef":"1503007014",
@@ -34953,7 +34668,6 @@
             "Shape_len":1307.63610687
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.38679629397101,
@@ -35311,7 +35025,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11001,
             "secRef":"1503007015",
@@ -35327,7 +35040,6 @@
             "Shape_len":2025.9803435700001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.408624729314388,
@@ -35769,7 +35481,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11002,
             "secRef":"1503007016",
@@ -35785,7 +35496,6 @@
             "Shape_len":1717.2251618099999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.409716609560514,
@@ -36331,7 +36041,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11003,
             "secRef":"1503007017",
@@ -36347,7 +36056,6 @@
             "Shape_len":1189.2012284100001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.405276970716509,
@@ -36657,7 +36365,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11004,
             "secRef":"1503007018",
@@ -36673,7 +36380,6 @@
             "Shape_len":1203.27716779
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.402963755710893,
@@ -37007,7 +36713,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11005,
             "secRef":"1503007019",
@@ -37023,7 +36728,6 @@
             "Shape_len":1109.57897944
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.407938884874891,
@@ -37169,7 +36873,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11006,
             "secRef":"1503007020",
@@ -37185,7 +36888,6 @@
             "Shape_len":1105.45063654
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.403042690593677,
@@ -37575,7 +37277,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11007,
             "secRef":"1503007021",
@@ -37591,7 +37292,6 @@
             "Shape_len":1006.71634851
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.399605490682614,
@@ -37773,7 +37473,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11008,
             "secRef":"1503007022",
@@ -37789,7 +37488,6 @@
             "Shape_len":741.73958883
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.399605490682614,
@@ -37939,7 +37637,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11009,
             "secRef":"1503007023",
@@ -37955,7 +37652,6 @@
             "Shape_len":984.33017363099998
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.400229097818464,
@@ -38129,7 +37825,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11010,
             "secRef":"1503007025",
@@ -38145,7 +37840,6 @@
             "Shape_len":877.66359101499995
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.402337347379314,
@@ -38279,7 +37973,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11011,
             "secRef":"1503007026",
@@ -38295,7 +37988,6 @@
             "Shape_len":1010.01078678
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.399399755170355,
@@ -38597,7 +38289,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11012,
             "secRef":"1503007027",
@@ -38613,7 +38304,6 @@
             "Shape_len":2697.5220487500001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.406716414620282,
@@ -39739,7 +39429,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11013,
             "secRef":"1503007028",
@@ -39755,7 +39444,6 @@
             "Shape_len":1444.1146186599999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.414676876923622,
@@ -40077,7 +39765,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11014,
             "secRef":"1503007029",
@@ -40093,7 +39780,6 @@
             "Shape_len":1186.21783824
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.407035339303913,
@@ -40295,7 +39981,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11015,
             "secRef":"1503007030",
@@ -40311,7 +39996,6 @@
             "Shape_len":1353.3181907000001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.408608733176195,
@@ -40821,7 +40505,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11016,
             "secRef":"1503007031",
@@ -40837,7 +40520,6 @@
             "Shape_len":4864.4239956900001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.41636962933997,
@@ -42067,7 +41749,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11017,
             "secRef":"1503007032",
@@ -42083,7 +41764,6 @@
             "Shape_len":507.316648187
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.391299972278786,
@@ -42341,7 +42021,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11018,
             "secRef":"1503007033",
@@ -42357,7 +42036,6 @@
             "Shape_len":950.14127156699999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.406337014552452,
@@ -42543,7 +42221,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11019,
             "secRef":"1503007034",
@@ -42559,7 +42236,6 @@
             "Shape_len":972.67846785400002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.406028257038074,
@@ -42697,7 +42373,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11020,
             "secRef":"1503007035",
@@ -42713,7 +42388,6 @@
             "Shape_len":983.23295033600004
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.401227887088583,
@@ -43079,7 +42753,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11021,
             "secRef":"1503007036",
@@ -43095,7 +42768,6 @@
             "Shape_len":3561.6362900300001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.408538848849741,
@@ -43445,7 +43117,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11022,
             "secRef":"1503007037",
@@ -43461,7 +43132,6 @@
             "Shape_len":646.91887644500002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.412043755854118,
@@ -43751,7 +43421,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11023,
             "secRef":"1503007038",
@@ -43767,7 +43436,6 @@
             "Shape_len":599.11244071299996
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.399574659459084,
@@ -43825,7 +43493,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11024,
             "secRef":"1503007039",
@@ -43841,7 +43508,6 @@
             "Shape_len":1019.90623782
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.394535915686722,
@@ -44175,7 +43841,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11025,
             "secRef":"1503007040",
@@ -44191,7 +43856,6 @@
             "Shape_len":1295.02541812
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.39465835044288,
@@ -44825,7 +44489,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11026,
             "secRef":"1503007041",
@@ -44841,7 +44504,6 @@
             "Shape_len":1865.41323803
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.399847775772452,
@@ -45719,7 +45381,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11027,
             "secRef":"1503007042",
@@ -45735,7 +45396,6 @@
             "Shape_len":1725.34988363
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.405185928181162,
@@ -46049,7 +45709,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11028,
             "secRef":"1503007043",
@@ -46065,7 +45724,6 @@
             "Shape_len":1146.31046231
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.400272756484952,
@@ -46383,7 +46041,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11029,
             "secRef":"1503008001",
@@ -46399,7 +46056,6 @@
             "Shape_len":2501.3602539200001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.394021511079925,
@@ -46949,7 +46605,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11030,
             "secRef":"1503008002",
@@ -46965,7 +46620,6 @@
             "Shape_len":1299.01249897
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.395437265102979,
@@ -47415,7 +47069,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11031,
             "secRef":"1503008003",
@@ -47431,7 +47084,6 @@
             "Shape_len":5943.6962716400003
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.38679629397101,
@@ -48505,7 +48157,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11032,
             "secRef":"1503008004",
@@ -48521,7 +48172,6 @@
             "Shape_len":6541.7784347200004
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.397261155806158,
@@ -49827,7 +49477,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11033,
             "secRef":"1503008005",
@@ -49843,7 +49492,6 @@
             "Shape_len":5313.2661906599997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.398996241486673,
@@ -51505,7 +51153,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11034,
             "secRef":"1503008006",
@@ -51521,7 +51168,6 @@
             "Shape_len":2450.4202682300001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.37917699629717,
@@ -52083,7 +51729,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11035,
             "secRef":"1503009001",
@@ -52099,7 +51744,6 @@
             "Shape_len":5307.7060654699999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.404477970419244,
@@ -53469,7 +53113,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11036,
             "secRef":"1503009002",
@@ -53485,7 +53128,6 @@
             "Shape_len":13740.0642484
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.450101858791239,
@@ -54571,7 +54213,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11037,
             "secRef":"1503009003",
@@ -54587,7 +54228,6 @@
             "Shape_len":9840.1760583499999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.433243064333405,
@@ -56205,7 +55845,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11038,
             "secRef":"1503009004",
@@ -56221,7 +55860,6 @@
             "Shape_len":3476.6169641900001
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.439145762724481,
@@ -56691,7 +56329,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11039,
             "secRef":"1503009005",
@@ -56707,7 +56344,6 @@
             "Shape_len":4799.8177471400004
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.455069418196258,
@@ -57073,7 +56709,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11040,
             "secRef":"1503010001",
@@ -57089,7 +56724,6 @@
             "Shape_len":14688.659413699999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.446850051975828,
@@ -59287,7 +58921,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11041,
             "secRef":"1503010002",
@@ -59303,7 +58936,6 @@
             "Shape_len":755.31003654599999
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.42261794958897,
@@ -59525,7 +59157,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11042,
             "secRef":"1503010003",
@@ -59541,7 +59172,6 @@
             "Shape_len":923.01948522299995
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.42448740500217,
@@ -59779,7 +59409,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11043,
             "secRef":"1503010004",
@@ -59795,7 +59424,6 @@
             "Shape_len":840.99509700199997
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.424878668917412,
@@ -60041,7 +59669,6 @@
          }
       },
       {
-         "type":"Feature",
          "properties":{
             "OBJECTID":11044,
             "secRef":"1503010005",
@@ -60057,7 +59684,6 @@
             "Shape_len":5082.8696659400002
          },
          "geometry":{
-            "type":"MultiPolygon",
             "coordinates":[
                [
                   -8.419912093111732,
