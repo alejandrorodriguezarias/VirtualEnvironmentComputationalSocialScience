@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using TriangleNet.Topology;
 using Newtonsoft.Json;
 using TriangleNet.Geometry;
+using Newtonsoft.Json.Linq;
 
 namespace SEGAR {
 
@@ -66,9 +67,15 @@ namespace SEGAR {
         /// </summary>
         public void CreateCitySections()
         {
-            SectionsData sectionsJson = JsonConvert.DeserializeObject<SectionsData>(sectionsData.text);
-            polygons = GeneratePolygons(sectionsJson);
+            JObject test = JObject.Parse(sectionsData.text);
+            JArray sectionsArray = (JArray)test["sectionsData"];
+            /*foreach (JObject item in prueba) {
+                JObject capon = (JObject)item["properties"];
+                string secRef = capon.GetValue("secRef").ToString();
+                Debug.LogError(secRef);
 
+            }*/
+            polygons = GeneratePolygons(sectionsArray);
         }
 
         /// <summary>
@@ -76,16 +83,17 @@ namespace SEGAR {
         /// </summary>
         /// <param name="sectionsJson">A censal sections data object</param>
         /// <returns></returns>
-        public ICollection<Triangle>[] GeneratePolygons(SectionsData sectionsJson)
+        public ICollection<Triangle>[] GeneratePolygons(JArray sectionsJson)
         {
-            polygons = new ICollection<Triangle>[sectionsJson.sectionsData.Length];
+            polygons = new ICollection<Triangle>[sectionsJson.Count];
             int j = 0;
             Vertex[] vertices;
-            foreach (SectionData section in sectionsJson.sectionsData)
+            foreach (JObject section in sectionsJson)
             {
-                vertices = new Vertex[section.geometry.coordinates.Length];
+                Geometry geometry = ((JObject)section["geometry"]).ToObject<Geometry>();
+                vertices = new Vertex[geometry.coordinates.Length];
                 int i = 0;
-                foreach (float[] points in section.geometry.coordinates)
+                foreach (float[] points in geometry.coordinates)
                 {
                     vertices[i] = new Vertex(Util.NormalizedMinMax(points[0], xCoordMin, xCoordMax, newXCoordMin, newXCoordMax) * scaleFactorX, Util.NormalizedMinMax(points[1], zCoordMin, zCoordMax, newZCoordMin, newZCoordMax) * scaleFactorZ);
                     //Display flag, only for debug. 
@@ -101,7 +109,7 @@ namespace SEGAR {
                 polygon.Add(new Contour(vertices));
                 var mesh = polygon.Triangulate();
                 polygons[j] = mesh.Triangles;
-                secRef.Add(section.properties.secRef, j);
+                secRef.Add(((JObject)section["properties"]).GetValue("secRef").ToString(), j);
                 j++;
             }
             return polygons;
