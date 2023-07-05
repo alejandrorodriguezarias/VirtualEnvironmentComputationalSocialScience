@@ -10,6 +10,6 @@ Work in progress
 ## Examples
 * Basic example: A Coruña with supermarkets. To see this example you have to enter the A Coruña scene. In this scene the program simply loads the census tracts, generates empty agents distributed in the census tracts following the socio-demographic data, and adds the supermarkets of the city as relevant places.
 ## Documentation
-For more documentation, see the [wiki](https://github.com/alejandrorodriguezarias/VirtualEnvironmentComputationalSocialScience/wiki)).
+For more documentation, see the [wiki](https://github.com/alejandrorodriguezarias/VirtualEnvironmentComputationalSocialScience/wiki).
 ## Licensing
 The code in this project is licensed under [MIT license](https://github.com/alejandrorodriguezarias/VirtualEnvironmentComputationalSocialScience/blob/main/LICENSE).
