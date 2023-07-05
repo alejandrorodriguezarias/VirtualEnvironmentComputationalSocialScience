@@ -5,6 +5,11 @@ namespace SEGAR
     {
         public float[][] coordinates;
     }
+
+    public class GeometryPlaces
+    {
+        public float[] coordinates;
+    }
 }
 
 

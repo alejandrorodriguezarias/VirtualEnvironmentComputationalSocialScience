@@ -1,10 +1,9 @@
-using System;
 using UnityEngine;
 using System.Collections.Generic;
 using TriangleNet.Topology;
-using Newtonsoft.Json;
-using TriangleNet.Geometry;
 using SEGAR;
+using Newtonsoft.Json.Linq;
+
 public class EnvironmentGeneratorACoruña : EnvironmentGenerator
 {
 
@@ -91,12 +90,13 @@ public class EnvironmentGeneratorACoruña : EnvironmentGenerator
         }
     }
 
-    protected override void CreateRelevantPlace(RelevantPlaceData relevantPlace, int id)
+    protected override void CreateRelevantPlace(JObject relevantPlace, int id)
     {
         GameObject agent =  Instantiate(placePrefab);
         agent.name = "relevantPlace " + id;
         Place place = agent.GetComponent<Place>();
-        place.type = relevantPlace.placeData.type;
-        agent.transform.position = new Vector3(Util.NormalizedMinMax(relevantPlace.geometry.coordinates[0], xCoordMin, xCoordMax, newXCoordMin, newXCoordMax) * 1000, 0, Util.NormalizedMinMax(relevantPlace.geometry.coordinates[1], zCoordMin, zCoordMax, newZCoordMin, newZCoordMax) * 1000);
+        place.type = ((JObject)relevantPlace["placeData"]).GetValue("type").ToString();
+        GeometryPlaces geometry = ((JObject)relevantPlace["geometry"]).ToObject<GeometryPlaces>();
+        agent.transform.position = new Vector3(Util.NormalizedMinMax(geometry.coordinates[0], xCoordMin, xCoordMax, newXCoordMin, newXCoordMax) * 1000, 0, Util.NormalizedMinMax(geometry.coordinates[1], zCoordMin, zCoordMax, newZCoordMin, newZCoordMax) * 1000);
     }
 }

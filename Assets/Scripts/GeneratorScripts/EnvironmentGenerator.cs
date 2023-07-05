@@ -51,7 +51,7 @@ namespace SEGAR {
             try
             {
                 CreateCitySections();
-                //CreateRelevantPlaces();
+                CreateRelevantPlaces();
                 CreateSimulatedAgents();
 
             }
@@ -67,14 +67,8 @@ namespace SEGAR {
         /// </summary>
         public void CreateCitySections()
         {
-            JObject test = JObject.Parse(sectionsData.text);
-            JArray sectionsArray = (JArray)test["sectionsData"];
-            /*foreach (JObject item in prueba) {
-                JObject capon = (JObject)item["properties"];
-                string secRef = capon.GetValue("secRef").ToString();
-                Debug.LogError(secRef);
-
-            }*/
+            JObject sections = JObject.Parse(sectionsData.text);
+            JArray sectionsArray = (JArray)sections["sectionsData"];
             polygons = GeneratePolygons(sectionsArray);
         }
 
@@ -120,9 +114,12 @@ namespace SEGAR {
         /// </summary>
         public void CreateRelevantPlaces()
         {
+
+            JObject places = JObject.Parse(placesData.text);
+            JArray placesArray = (JArray)places["relevantPlacesData"];
+
             int i = 0;
-            RelevantPlacesData relevantPlacesJson = JsonConvert.DeserializeObject<RelevantPlacesData>(placesData.text);
-            foreach (RelevantPlaceData relevantPlace in relevantPlacesJson.relevantPlacesData)
+            foreach (JObject relevantPlace in placesArray)
             {
                 CreateRelevantPlace(relevantPlace, i);
                 i++;
@@ -166,7 +163,7 @@ namespace SEGAR {
         /// this environment.
         /// </summary>
         /// <param name="relevantPlace"></param>
-        abstract protected void CreateRelevantPlace(RelevantPlaceData relevantPlace, int id);
+        abstract protected void CreateRelevantPlace(JObject relevantPlace, int id);
 
     }
 
