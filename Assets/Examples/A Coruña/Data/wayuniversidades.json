@@ -1,0 +1,4235 @@
+{
+  "relevantPlacesData": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/17539083",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "alt_name": "Facultade de Enxeñaría Informática - UDC",
+        "alt_name:es": "Facultad de Ingeniería Informática - UDC",
+        "alt_name:gl": "Facultade de Enxeñaría Informática - UDC",
+        "building": "university",
+        "building:levels": "6",
+        "building:levels:underground": "1",
+        "loc_name": "FIC",
+        "name": "Facultade de Informática - UDC",
+        "name:en": "Faculty of Computer Science - UDC",
+        "name:es": "Facultad de Informática - UDC",
+        "name:gl": "Facultade de Informática - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 12 99",
+        "short_name": "Facultade Informática",
+        "short_name:es": "Facultad Informática",
+        "short_name:gl": "Facultade Informática",
+        "website": "https://www.fic.udc.es/",
+        "wikidata": "Q12388247",
+        "wikipedia": "gl:Facultade de Informática da Coruña"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4116467,
+              43.3326776
+            ],
+            [
+              -8.4115978,
+              43.3326296
+            ],
+            [
+              -8.4116088,
+              43.3326237
+            ],
+            [
+              -8.4115059,
+              43.3325226
+            ],
+            [
+              -8.4114952,
+              43.3325285
+            ],
+            [
+              -8.4114495,
+              43.3324838
+            ],
+            [
+              -8.411197,
+              43.3326208
+            ],
+            [
+              -8.4112422,
+              43.3326654
+            ],
+            [
+              -8.4112294,
+              43.3326725
+            ],
+            [
+              -8.411266,
+              43.3327076
+            ],
+            [
+              -8.4112562,
+              43.3327131
+            ],
+            [
+              -8.4112461,
+              43.3327187
+            ],
+            [
+              -8.4112312,
+              43.3327047
+            ],
+            [
+              -8.4111801,
+              43.3326545
+            ],
+            [
+              -8.4111642,
+              43.332639
+            ],
+            [
+              -8.4110838,
+              43.3326827
+            ],
+            [
+              -8.410925,
+              43.3327689
+            ],
+            [
+              -8.4107758,
+              43.3326223
+            ],
+            [
+              -8.4106855,
+              43.3326714
+            ],
+            [
+              -8.4102336,
+              43.3329168
+            ],
+            [
+              -8.4103867,
+              43.3330669
+            ],
+            [
+              -8.410393,
+              43.3330635
+            ],
+            [
+              -8.4104707,
+              43.3331401
+            ],
+            [
+              -8.4104319,
+              43.3331612
+            ],
+            [
+              -8.4105167,
+              43.3332448
+            ],
+            [
+              -8.4105564,
+              43.3332235
+            ],
+            [
+              -8.4105819,
+              43.3332487
+            ],
+            [
+              -8.4106176,
+              43.3332294
+            ],
+            [
+              -8.4108255,
+              43.3331165
+            ],
+            [
+              -8.4108086,
+              43.3331001
+            ],
+            [
+              -8.4109286,
+              43.3330349
+            ],
+            [
+              -8.4109453,
+              43.3330513
+            ],
+            [
+              -8.4110087,
+              43.3330169
+            ],
+            [
+              -8.4112762,
+              43.3328716
+            ],
+            [
+              -8.4113577,
+              43.3328274
+            ],
+            [
+              -8.4113434,
+              43.3328134
+            ],
+            [
+              -8.4112917,
+              43.3327629
+            ],
+            [
+              -8.411278,
+              43.3327496
+            ],
+            [
+              -8.4112961,
+              43.3327397
+            ],
+            [
+              -8.4113308,
+              43.3327739
+            ],
+            [
+              -8.4113424,
+              43.3327676
+            ],
+            [
+              -8.4113909,
+              43.3328152
+            ],
+            [
+              -8.4116467,
+              43.3326776
+            ]
+          ]
+        ]
+      },
+      "id": "way/17539083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27480083",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "3",
+        "building:levels:underground": "1",
+        "name": "Escola Técnica Superior de Enxeñeiros de Camiños, Canais e Portos - UDC",
+        "name:en": "School of Civil Engineering - UDC",
+        "name:es": "Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos - UDC",
+        "name:gl": "Escola Técnica Superior de Enxeñeiros de Camiños, Canais e Portos - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 981 167 000",
+        "short_name": "Escola Técnica Superior Enxeñeiros de Camiños, Canais e Portos",
+        "short_name:en": "Civil Engineering School",
+        "short_name:es": "Escuela Técnica Superior Ingenieros de Caminos, Canales y Puertos",
+        "short_name:gl": "Escola Técnica Superior Enxeñeiros de Camiños, Canais e Portos",
+        "website": "https://www.udc.gal/gl/centros_departamentos_servizos/centros/centro/?codigo=632"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4103522,
+              43.3333625
+            ],
+            [
+              -8.4101142,
+              43.333128
+            ],
+            [
+              -8.4093923,
+              43.333519
+            ],
+            [
+              -8.4093536,
+              43.3334814
+            ],
+            [
+              -8.410076,
+              43.3330905
+            ],
+            [
+              -8.410015,
+              43.3330308
+            ],
+            [
+              -8.4092937,
+              43.3334214
+            ],
+            [
+              -8.4092811,
+              43.3334089
+            ],
+            [
+              -8.4092351,
+              43.3334338
+            ],
+            [
+              -8.4091904,
+              43.333458
+            ],
+            [
+              -8.409203,
+              43.3334706
+            ],
+            [
+              -8.4089344,
+              43.3336161
+            ],
+            [
+              -8.4089948,
+              43.3336756
+            ],
+            [
+              -8.4090331,
+              43.3337136
+            ],
+            [
+              -8.40927,
+              43.3339481
+            ],
+            [
+              -8.4096334,
+              43.3337514
+            ],
+            [
+              -8.4096489,
+              43.333766
+            ],
+            [
+              -8.4096718,
+              43.3337537
+            ],
+            [
+              -8.4096944,
+              43.3337416
+            ],
+            [
+              -8.4096791,
+              43.3337266
+            ],
+            [
+              -8.4103522,
+              43.3333625
+            ]
+          ]
+        ]
+      },
+      "id": "way/27480083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27480087",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "4",
+        "building:levels:underground": "1",
+        "name": "Facultade de Socioloxía e Facultade de Ciencias da Comunicación - UDC",
+        "name:en": "Faculty of Sociology and Faculty of Communication Studies - UDC",
+        "name:es": "Facultad de Sociología y Facultad de Ciencias de la Comunicación - UDC",
+        "name:gl": "Facultade de Socioloxía e Facultade de Ciencias da Comunicación - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 48 09;+34 881 01 48 75",
+        "short_name": "Facultade Socioloxía e Facultade Ciencias da Comunicación",
+        "short_name:es": "Facultad Sociología y Facultad Ciencias de la Comunicación",
+        "short_name:gl": "Facultade Socioloxía e Facultade Ciencias da Comunicación",
+        "website": "https://www.udc.gal/gl/centros_departamentos_servizos/centros/centro/?codigo=615;https://www.udc.gal/gl/centros_departamentos_servizos/centros/centro/?codigo=616",
+        "wikidata": "Q12388248",
+        "wikipedia": "gl:Facultade de Socioloxía da Universidade da Coruña"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4137017,
+              43.3333692
+            ],
+            [
+              -8.4139264,
+              43.3332334
+            ],
+            [
+              -8.4139314,
+              43.3332378
+            ],
+            [
+              -8.414133,
+              43.3331171
+            ],
+            [
+              -8.4140634,
+              43.3330556
+            ],
+            [
+              -8.4139309,
+              43.3331349
+            ],
+            [
+              -8.4138912,
+              43.3330996
+            ],
+            [
+              -8.4140236,
+              43.3330201
+            ],
+            [
+              -8.413954,
+              43.3329584
+            ],
+            [
+              -8.4138216,
+              43.3330378
+            ],
+            [
+              -8.4137822,
+              43.3330028
+            ],
+            [
+              -8.4139146,
+              43.3329234
+            ],
+            [
+              -8.4138451,
+              43.3328616
+            ],
+            [
+              -8.4137127,
+              43.3329411
+            ],
+            [
+              -8.4136722,
+              43.3329052
+            ],
+            [
+              -8.4138046,
+              43.3328257
+            ],
+            [
+              -8.413735,
+              43.332764
+            ],
+            [
+              -8.4135337,
+              43.3328849
+            ],
+            [
+              -8.4134885,
+              43.3328447
+            ],
+            [
+              -8.4134987,
+              43.3328387
+            ],
+            [
+              -8.4136899,
+              43.3327239
+            ],
+            [
+              -8.4136301,
+              43.3326708
+            ],
+            [
+              -8.4134038,
+              43.3324699
+            ],
+            [
+              -8.4132023,
+              43.3325907
+            ],
+            [
+              -8.413207,
+              43.3325947
+            ],
+            [
+              -8.4129817,
+              43.3327298
+            ],
+            [
+              -8.413256,
+              43.3329734
+            ],
+            [
+              -8.4135917,
+              43.333272
+            ],
+            [
+              -8.4137017,
+              43.3333692
+            ]
+          ]
+        ]
+      },
+      "id": "way/27480087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27480088",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "4",
+        "name": "Facultade de Dereito - UDC",
+        "name:en": "Faculty of Law - UDC",
+        "name:es": "Facultad de Derecho - UDC",
+        "name:gl": "Facultade de Dereito - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 15 11",
+        "short_name": "Facultade Dereito",
+        "short_name:en": "Law Faculty",
+        "short_name:es": "Facultade Derecho",
+        "short_name:gl": "Facultade Dereito",
+        "website": "https://www.udc.gal/gl/centros_departamentos_servizos/centros/centro/?codigo=612",
+        "wikidata": "Q12388244",
+        "wikipedia": "gl:Facultade de Dereito da Coruña"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4145785,
+              43.334148
+            ],
+            [
+              -8.4146152,
+              43.334126
+            ],
+            [
+              -8.4150076,
+              43.3338914
+            ],
+            [
+              -8.4142971,
+              43.3332626
+            ],
+            [
+              -8.4139047,
+              43.3334972
+            ],
+            [
+              -8.4138679,
+              43.3335192
+            ],
+            [
+              -8.4145785,
+              43.334148
+            ]
+          ]
+        ]
+      },
+      "id": "way/27480088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27480090",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "5",
+        "building:levels:underground": "1",
+        "name": "Facultade de Economía e Empresa - UDC",
+        "name:en": "Faculty of Economics and Business - UDC",
+        "name:es": "Facultad de Economía y Empresa - UDC",
+        "name:gl": "Facultade de Economía e Empresa - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 24 54",
+        "short_name": "Facultade Economía e Empresa",
+        "short_name:en": "Economics and Business Faculty",
+        "short_name:es": "Facultad Economía y Empresa",
+        "short_name:gl": "Facultade Economía e Empresa",
+        "website": "https://www.udc.gal/gl/centros_departamentos_servizos/centros/centro/?codigo=617"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4133777,
+              43.3315237
+            ],
+            [
+              -8.4133773,
+              43.3314787
+            ],
+            [
+              -8.4133758,
+              43.3313658
+            ],
+            [
+              -8.4134051,
+              43.3313658
+            ],
+            [
+              -8.4134043,
+              43.3313206
+            ],
+            [
+              -8.4133777,
+              43.3313211
+            ],
+            [
+              -8.4133733,
+              43.3312095
+            ],
+            [
+              -8.4133173,
+              43.3312101
+            ],
+            [
+              -8.4133157,
+              43.3311644
+            ],
+            [
+              -8.4133182,
+              43.3311644
+            ],
+            [
+              -8.4133166,
+              43.3311198
+            ],
+            [
+              -8.413311,
+              43.3309828
+            ],
+            [
+              -8.4132805,
+              43.3309839
+            ],
+            [
+              -8.4132813,
+              43.3309391
+            ],
+            [
+              -8.4132489,
+              43.3309394
+            ],
+            [
+              -8.4132476,
+              43.3308456
+            ],
+            [
+              -8.4132762,
+              43.3308445
+            ],
+            [
+              -8.413275,
+              43.3307608
+            ],
+            [
+              -8.4132464,
+              43.3307607
+            ],
+            [
+              -8.4132464,
+              43.3307561
+            ],
+            [
+              -8.413275,
+              43.3307563
+            ],
+            [
+              -8.4132738,
+              43.3306707
+            ],
+            [
+              -8.4132452,
+              43.3306709
+            ],
+            [
+              -8.4132451,
+              43.3306656
+            ],
+            [
+              -8.4132737,
+              43.3306656
+            ],
+            [
+              -8.4132726,
+              43.3305825
+            ],
+            [
+              -8.413244,
+              43.3305835
+            ],
+            [
+              -8.4132439,
+              43.330576
+            ],
+            [
+              -8.4132725,
+              43.3305748
+            ],
+            [
+              -8.4132713,
+              43.33049
+            ],
+            [
+              -8.4132427,
+              43.3304905
+            ],
+            [
+              -8.4132426,
+              43.3304852
+            ],
+            [
+              -8.4132712,
+              43.3304848
+            ],
+            [
+              -8.4132701,
+              43.3304007
+            ],
+            [
+              -8.4132415,
+              43.3304016
+            ],
+            [
+              -8.4132402,
+              43.330306
+            ],
+            [
+              -8.412977,
+              43.3303084
+            ],
+            [
+              -8.4129009,
+              43.3303091
+            ],
+            [
+              -8.4128998,
+              43.3302564
+            ],
+            [
+              -8.4128627,
+              43.3302558
+            ],
+            [
+              -8.4128664,
+              43.3304024
+            ],
+            [
+              -8.4128971,
+              43.3304019
+            ],
+            [
+              -8.4129147,
+              43.3315296
+            ],
+            [
+              -8.4129209,
+              43.3315297
+            ],
+            [
+              -8.4129215,
+              43.3315688
+            ],
+            [
+              -8.4128547,
+              43.3315691
+            ],
+            [
+              -8.4128552,
+              43.3316152
+            ],
+            [
+              -8.4129222,
+              43.33161
+            ],
+            [
+              -8.4130796,
+              43.3315989
+            ],
+            [
+              -8.4130789,
+              43.3315319
+            ],
+            [
+              -8.4130787,
+              43.3315258
+            ],
+            [
+              -8.4133777,
+              43.3315237
+            ]
+          ]
+        ]
+      },
+      "id": "way/27480090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27480092",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "3",
+        "name": "Centro de Innovación Tecnolóxica en Edificación e Enxeñaría Civil - CITEEC - UDC",
+        "name:en": "Center of Technological Innovations in Construction and Civil Engineering - CITEEC - UDC",
+        "name:es": "Centro de Innovación Tecnológica en Edificación e Ingeniería Civil - CITEEC - UDC",
+        "name:gl": "Centro de Innovación Tecnolóxica en Edificación e Enxeñaría Civil - CITEEC - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 51 85",
+        "short_name": "CITEEC",
+        "website": "https://www.udc.gal/gl/investigacion/parque_tecnoloxico/citeec/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4091332,
+              43.3340305
+            ],
+            [
+              -8.4088823,
+              43.3337809
+            ],
+            [
+              -8.408865,
+              43.3337902
+            ],
+            [
+              -8.4088352,
+              43.3337609
+            ],
+            [
+              -8.408814,
+              43.3337724
+            ],
+            [
+              -8.4087509,
+              43.3337104
+            ],
+            [
+              -8.4086026,
+              43.3337902
+            ],
+            [
+              -8.4085961,
+              43.3337838
+            ],
+            [
+              -8.4082199,
+              43.3339881
+            ],
+            [
+              -8.4082259,
+              43.3339938
+            ],
+            [
+              -8.4081512,
+              43.3340341
+            ],
+            [
+              -8.4080262,
+              43.3341014
+            ],
+            [
+              -8.408009,
+              43.3340845
+            ],
+            [
+              -8.4075543,
+              43.3343296
+            ],
+            [
+              -8.407645,
+              43.3344186
+            ],
+            [
+              -8.4080994,
+              43.3341736
+            ],
+            [
+              -8.4080941,
+              43.3341684
+            ],
+            [
+              -8.4082193,
+              43.3341009
+            ],
+            [
+              -8.4082941,
+              43.3340605
+            ],
+            [
+              -8.4083547,
+              43.3341197
+            ],
+            [
+              -8.4085182,
+              43.3342796
+            ],
+            [
+              -8.4085268,
+              43.334275
+            ],
+            [
+              -8.4085525,
+              43.3343004
+            ],
+            [
+              -8.4085975,
+              43.3342966
+            ],
+            [
+              -8.4086489,
+              43.3342899
+            ],
+            [
+              -8.4086992,
+              43.334263
+            ],
+            [
+              -8.4087119,
+              43.3342757
+            ],
+            [
+              -8.4089566,
+              43.3341447
+            ],
+            [
+              -8.4089446,
+              43.3341315
+            ],
+            [
+              -8.4090938,
+              43.3340516
+            ],
+            [
+              -8.4091332,
+              43.3340305
+            ]
+          ]
+        ]
+      },
+      "id": "way/27480092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27480093",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "2",
+        "building:levels:underground": "1",
+        "name": "Pavillón de Estudantes - UDC",
+        "name:en": "Students Pavillion - UDC",
+        "name:es": "Pabellón de Estudiantes - UDC",
+        "name:gl": "Pavillón de Estudantes - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 19 24",
+        "roof:levels": "0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4110944,
+              43.3342698
+            ],
+            [
+              -8.4107341,
+              43.3339151
+            ],
+            [
+              -8.4105735,
+              43.3340015
+            ],
+            [
+              -8.4103993,
+              43.3340951
+            ],
+            [
+              -8.4107598,
+              43.3344499
+            ],
+            [
+              -8.4109489,
+              43.3343483
+            ],
+            [
+              -8.4109653,
+              43.3343644
+            ],
+            [
+              -8.4110892,
+              43.3342978
+            ],
+            [
+              -8.4110727,
+              43.3342815
+            ],
+            [
+              -8.4110944,
+              43.3342698
+            ]
+          ]
+        ]
+      },
+      "id": "way/27480093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27480096",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "3",
+        "name": "Casa do Lagar - UDC",
+        "name:en": "Casa do Lagar - UDC",
+        "name:es": "Casa do Lagar - UDC",
+        "name:gl": "Casa do Lagar - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 19 55"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4120533,
+              43.3321763
+            ],
+            [
+              -8.4120962,
+              43.3321457
+            ],
+            [
+              -8.4120903,
+              43.3321096
+            ],
+            [
+              -8.4120853,
+              43.3320821
+            ],
+            [
+              -8.4120759,
+              43.3320285
+            ],
+            [
+              -8.41207,
+              43.3320053
+            ],
+            [
+              -8.4120591,
+              43.3319774
+            ],
+            [
+              -8.4120279,
+              43.3319845
+            ],
+            [
+              -8.4120342,
+              43.3320013
+            ],
+            [
+              -8.412029,
+              43.3320043
+            ],
+            [
+              -8.4120339,
+              43.332013
+            ],
+            [
+              -8.4120036,
+              43.3320227
+            ],
+            [
+              -8.41201,
+              43.3320592
+            ],
+            [
+              -8.4117775,
+              43.3320657
+            ],
+            [
+              -8.4117816,
+              43.3321212
+            ],
+            [
+              -8.4116957,
+              43.3321126
+            ],
+            [
+              -8.4116884,
+              43.3321749
+            ],
+            [
+              -8.4117888,
+              43.3321754
+            ],
+            [
+              -8.4117897,
+              43.3321263
+            ],
+            [
+              -8.4118467,
+              43.3321298
+            ],
+            [
+              -8.4118467,
+              43.3321332
+            ],
+            [
+              -8.4118872,
+              43.3321329
+            ],
+            [
+              -8.4118865,
+              43.3321158
+            ],
+            [
+              -8.4119385,
+              43.3321146
+            ],
+            [
+              -8.411947,
+              43.3321795
+            ],
+            [
+              -8.4119652,
+              43.3321789
+            ],
+            [
+              -8.4119661,
+              43.3321936
+            ],
+            [
+              -8.4120544,
+              43.3321919
+            ],
+            [
+              -8.4120533,
+              43.3321763
+            ]
+          ]
+        ]
+      },
+      "id": "way/27480096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96057501",
+        "addr:city": "A Coruña",
+        "addr:country": "ES",
+        "addr:housenumber": "23",
+        "addr:postcode": "15008",
+        "addr:street": "Rúa da Fraga",
+        "building": "university",
+        "name": "Escola Técnica Superior de Arquitectura - UDC",
+        "name:en": "Higher Technical University College of Architecture - UDC",
+        "name:es": "Escuela Técnica Superior de Arquitectura - UDC",
+        "name:gl": "Escola Técnica Superior de Arquitectura - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 50 11",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_1701_20100205.pdf",
+        "website": "http://www.udc.es/centros_departamentos_servizos/centros/detalleCentro/?codigo=630"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4092941,
+              43.3271648
+            ],
+            [
+              -8.4091187,
+              43.3274002
+            ],
+            [
+              -8.4094284,
+              43.3275223
+            ],
+            [
+              -8.4094817,
+              43.3274506
+            ],
+            [
+              -8.4095281,
+              43.3274689
+            ],
+            [
+              -8.4095941,
+              43.3273804
+            ],
+            [
+              -8.409547,
+              43.3273618
+            ],
+            [
+              -8.409603,
+              43.3272866
+            ],
+            [
+              -8.4092941,
+              43.3271648
+            ]
+          ]
+        ]
+      },
+      "id": "way/96057501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166501035",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "56",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "3",
+        "email": "citic@udc.es",
+        "fax": "+34 981 16 70 92",
+        "name": "Centro de Investigación en Tecnoloxías da Información e das Comunicacións - CITIC - UDC",
+        "name:en": "Center on Information and Communication Technologies - CITIC - UDC",
+        "name:es": "Centro de Investigación en Tecnologías de la Información y de las Comunicaciones - CITIC - UDC",
+        "name:gl": "Centro de Investigación en Tecnoloxías da Información e das Comunicacións - CITIC - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 55 14",
+        "short_name": "CITIC",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_1052_20110210.pdf",
+        "website": "https://www.udc.gal/gl/investigacion/parque_tecnoloxico/citic/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4082351,
+              43.33269
+            ],
+            [
+              -8.4081985,
+              43.3326447
+            ],
+            [
+              -8.4081519,
+              43.3326646
+            ],
+            [
+              -8.4080038,
+              43.3324817
+            ],
+            [
+              -8.4080864,
+              43.3324463
+            ],
+            [
+              -8.4080506,
+              43.332402
+            ],
+            [
+              -8.4079636,
+              43.3324393
+            ],
+            [
+              -8.4077983,
+              43.33251
+            ],
+            [
+              -8.4076923,
+              43.3325554
+            ],
+            [
+              -8.4077281,
+              43.3325997
+            ],
+            [
+              -8.4078278,
+              43.332557
+            ],
+            [
+              -8.407986,
+              43.3327524
+            ],
+            [
+              -8.4079753,
+              43.332757
+            ],
+            [
+              -8.4079926,
+              43.3327784
+            ],
+            [
+              -8.4080034,
+              43.3327738
+            ],
+            [
+              -8.4080117,
+              43.3327702
+            ],
+            [
+              -8.4080158,
+              43.3327753
+            ],
+            [
+              -8.4080219,
+              43.3327728
+            ],
+            [
+              -8.408027,
+              43.3327791
+            ],
+            [
+              -8.4081886,
+              43.3327099
+            ],
+            [
+              -8.4081986,
+              43.3327056
+            ],
+            [
+              -8.4082351,
+              43.33269
+            ]
+          ]
+        ]
+      },
+      "id": "way/166501035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167490522",
+        "building": "university",
+        "name": "Universidad Nacional de Educación a Distancia da Coruña",
+        "short_name": "UNED A Coruña"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4242754,
+              43.3705606
+            ],
+            [
+              -8.4243476,
+              43.3704951
+            ],
+            [
+              -8.4243626,
+              43.3705043
+            ],
+            [
+              -8.4244268,
+              43.3704782
+            ],
+            [
+              -8.4244514,
+              43.3704241
+            ],
+            [
+              -8.4244359,
+              43.370415
+            ],
+            [
+              -8.4245051,
+              43.3703501
+            ],
+            [
+              -8.4240883,
+              43.3701047
+            ],
+            [
+              -8.423857,
+              43.3703149
+            ],
+            [
+              -8.4239932,
+              43.3703949
+            ],
+            [
+              -8.4242754,
+              43.3705606
+            ]
+          ]
+        ]
+      },
+      "id": "way/167490522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169021191",
+        "addr:city": "A Coruña",
+        "addr:country": "ES",
+        "addr:housenumber": "8",
+        "addr:postcode": "15008",
+        "addr:street": "Rúa da Fraga",
+        "building": "university",
+        "name": "Edificio Departamentos ETSA - UDC",
+        "name:en": "ETSA Departments Building - UDC",
+        "name:es": "Edificio Departamentos ETSA - UDC",
+        "name:gl": "Edificio Departamentos ETSA - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 52 00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4089493,
+              43.3285429
+            ],
+            [
+              -8.4089868,
+              43.3285254
+            ],
+            [
+              -8.4090401,
+              43.3284857
+            ],
+            [
+              -8.4090921,
+              43.3284276
+            ],
+            [
+              -8.4094859,
+              43.3278362
+            ],
+            [
+              -8.4093042,
+              43.3277718
+            ],
+            [
+              -8.4088511,
+              43.3284556
+            ],
+            [
+              -8.4089493,
+              43.3285429
+            ]
+          ]
+        ]
+      },
+      "id": "way/169021191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169021443",
+        "addr:city": "A Coruña",
+        "addr:country": "ES",
+        "addr:housenumber": "11",
+        "addr:postcode": "15008",
+        "addr:street": "Rúa Lisboa",
+        "building": "university",
+        "leisure": "sports_hall",
+        "name": "Edificio Instalacións Deportivas. Zapateira - UDC",
+        "name:en": "Sport Buildings. Zapateira - UDC",
+        "name:es": "Edificio Instalaciones Deportivas. Zapateira - UDC",
+        "name:gl": "Edificio Instalacións Deportivas. Zapateira - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 19 04",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_1532_20141203.pdf",
+        "sport": "padel",
+        "website": "http://www.udc.es/deportes/coruna/instalacions/index.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4069642,
+              43.3278543
+            ],
+            [
+              -8.4073347,
+              43.3275308
+            ],
+            [
+              -8.4071321,
+              43.3274043
+            ],
+            [
+              -8.4067599,
+              43.3277309
+            ],
+            [
+              -8.4068307,
+              43.3277737
+            ],
+            [
+              -8.4069642,
+              43.3278543
+            ]
+          ]
+        ]
+      },
+      "id": "way/169021443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169974561",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "4",
+        "name": "Centro de Investigacións Científicas Avanzadas - CICA - UDC",
+        "name:en": "Center of Advanced Scientific Research - CICA - UDC",
+        "name:es": "Centro de Investigaciones Científicas Avanzadas - CICA - UDC",
+        "name:gl": "Centro de Investigacións Científicas Avanzadas - CICA - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 55 80",
+        "short_name": "CICA",
+        "website": "https://www.udc.gal/gl/investigacion/parque_tecnoloxico/cica/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4083385,
+              43.3326182
+            ],
+            [
+              -8.408413,
+              43.3325864
+            ],
+            [
+              -8.4085407,
+              43.3325317
+            ],
+            [
+              -8.4085189,
+              43.3325045
+            ],
+            [
+              -8.408374,
+              43.3323239
+            ],
+            [
+              -8.4084486,
+              43.332292
+            ],
+            [
+              -8.4084128,
+              43.3322473
+            ],
+            [
+              -8.4083382,
+              43.3322792
+            ],
+            [
+              -8.4081359,
+              43.3323657
+            ],
+            [
+              -8.4080721,
+              43.332393
+            ],
+            [
+              -8.408108,
+              43.3324377
+            ],
+            [
+              -8.4081717,
+              43.3324103
+            ],
+            [
+              -8.4083385,
+              43.3326182
+            ]
+          ]
+        ]
+      },
+      "id": "way/169974561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169974563",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15071",
+        "addr:street": "Rúa das Carballeiras",
+        "building": "university",
+        "building:levels": "3",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "roof:levels": "0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4087417,
+              43.332634
+            ],
+            [
+              -8.4086532,
+              43.3325473
+            ],
+            [
+              -8.4083886,
+              43.3326911
+            ],
+            [
+              -8.4080768,
+              43.3328603
+            ],
+            [
+              -8.4081063,
+              43.3328893
+            ],
+            [
+              -8.4080964,
+              43.3328947
+            ],
+            [
+              -8.4081525,
+              43.3329652
+            ],
+            [
+              -8.4084843,
+              43.332785
+            ],
+            [
+              -8.4084769,
+              43.3327778
+            ],
+            [
+              -8.4087417,
+              43.332634
+            ]
+          ]
+        ]
+      },
+      "id": "way/169974563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188368328",
+        "addr:city": "A Coruña",
+        "addr:country": "ES",
+        "addr:postcode": "15008",
+        "addr:street": "Campus da Zapateira",
+        "building": "university",
+        "name": "Edificio Departamentos Fac. Filoloxía - UDC",
+        "name:en": "Faculty of Philology Departments Building - UDC",
+        "name:es": "Edificio Departamentos Fac. Filología - UDC",
+        "name:gl": "Edificio Departamentos Fac. Filoloxía - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 17 13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4085236,
+              43.3257807
+            ],
+            [
+              -8.408668,
+              43.3257351
+            ],
+            [
+              -8.4084389,
+              43.3253511
+            ],
+            [
+              -8.4082972,
+              43.3253958
+            ],
+            [
+              -8.4083338,
+              43.3254572
+            ],
+            [
+              -8.4082509,
+              43.3254834
+            ],
+            [
+              -8.4082708,
+              43.3255171
+            ],
+            [
+              -8.4083513,
+              43.3254917
+            ],
+            [
+              -8.4085236,
+              43.3257807
+            ]
+          ]
+        ]
+      },
+      "id": "way/188368328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188368329",
+        "addr:city": "A Coruña",
+        "addr:country": "ES",
+        "addr:housenumber": "7",
+        "addr:postcode": "15008",
+        "addr:street": "Rúa Lisboa",
+        "building": "university",
+        "name": "Facultade de Filoloxía - UDC",
+        "name:en": "Faculty of Philology - UDC",
+        "name:es": "Facultad de Filología - UDC",
+        "name:gl": "Facultade de Filoloxía - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 17 17",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_1532_20141203.pdf",
+        "website": "http://www.udc.es/centros_departamentos_servizos/centros/detalleCentro/?codigo=613"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4068787,
+              43.3260646
+            ],
+            [
+              -8.4070417,
+              43.3260137
+            ],
+            [
+              -8.4069934,
+              43.3259318
+            ],
+            [
+              -8.4071506,
+              43.3258827
+            ],
+            [
+              -8.4071998,
+              43.3259658
+            ],
+            [
+              -8.4073648,
+              43.3259142
+            ],
+            [
+              -8.4073154,
+              43.3258307
+            ],
+            [
+              -8.40747,
+              43.3257823
+            ],
+            [
+              -8.4075186,
+              43.3258646
+            ],
+            [
+              -8.4076824,
+              43.3258134
+            ],
+            [
+              -8.4076344,
+              43.3257321
+            ],
+            [
+              -8.4077897,
+              43.3256836
+            ],
+            [
+              -8.407839,
+              43.3257671
+            ],
+            [
+              -8.4079983,
+              43.3257173
+            ],
+            [
+              -8.4079563,
+              43.3256461
+            ],
+            [
+              -8.4081222,
+              43.3255943
+            ],
+            [
+              -8.4081599,
+              43.3256582
+            ],
+            [
+              -8.4083239,
+              43.325607
+            ],
+            [
+              -8.4082708,
+              43.3255171
+            ],
+            [
+              -8.4082509,
+              43.3254834
+            ],
+            [
+              -8.4081732,
+              43.3253519
+            ],
+            [
+              -8.4080041,
+              43.3254048
+            ],
+            [
+              -8.4079858,
+              43.3253739
+            ],
+            [
+              -8.4078568,
+              43.3254142
+            ],
+            [
+              -8.4079131,
+              43.3255097
+            ],
+            [
+              -8.4080458,
+              43.3254682
+            ],
+            [
+              -8.4080618,
+              43.3254953
+            ],
+            [
+              -8.4078955,
+              43.3255472
+            ],
+            [
+              -8.4078451,
+              43.3254621
+            ],
+            [
+              -8.4076881,
+              43.3255112
+            ],
+            [
+              -8.407727,
+              43.3255771
+            ],
+            [
+              -8.4075699,
+              43.3256262
+            ],
+            [
+              -8.4075305,
+              43.3255595
+            ],
+            [
+              -8.407657,
+              43.32552
+            ],
+            [
+              -8.4075483,
+              43.3253359
+            ],
+            [
+              -8.4071363,
+              43.3254647
+            ],
+            [
+              -8.4072448,
+              43.3256484
+            ],
+            [
+              -8.4073704,
+              43.3256091
+            ],
+            [
+              -8.4074098,
+              43.3256759
+            ],
+            [
+              -8.4072506,
+              43.3257256
+            ],
+            [
+              -8.4072107,
+              43.3256581
+            ],
+            [
+              -8.4070494,
+              43.3257085
+            ],
+            [
+              -8.4070887,
+              43.3257751
+            ],
+            [
+              -8.4069307,
+              43.3258245
+            ],
+            [
+              -8.406891,
+              43.3257572
+            ],
+            [
+              -8.4067273,
+              43.3258083
+            ],
+            [
+              -8.4068787,
+              43.3260646
+            ]
+          ]
+        ]
+      },
+      "id": "way/188368329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/212740136",
+        "addr:city": "A Coruña",
+        "addr:country": "ES",
+        "addr:housenumber": "47",
+        "addr:postcode": "15011",
+        "addr:street": "Paseo de Ronda",
+        "building": "university",
+        "operator": "Universidade da Coruña"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4219205,
+              43.3697058
+            ],
+            [
+              -8.4215122,
+              43.3695734
+            ],
+            [
+              -8.4215234,
+              43.3695502
+            ],
+            [
+              -8.4214246,
+              43.3695194
+            ],
+            [
+              -8.4214092,
+              43.369503
+            ],
+            [
+              -8.4214186,
+              43.3694944
+            ],
+            [
+              -8.4214224,
+              43.369482
+            ],
+            [
+              -8.4214195,
+              43.3694716
+            ],
+            [
+              -8.4214077,
+              43.3694602
+            ],
+            [
+              -8.4213955,
+              43.3694528
+            ],
+            [
+              -8.4213724,
+              43.3694501
+            ],
+            [
+              -8.4213597,
+              43.3694532
+            ],
+            [
+              -8.4213536,
+              43.3694371
+            ],
+            [
+              -8.4213687,
+              43.3694248
+            ],
+            [
+              -8.4215835,
+              43.3694768
+            ],
+            [
+              -8.4216184,
+              43.3694065
+            ],
+            [
+              -8.4216603,
+              43.3692762
+            ],
+            [
+              -8.4216687,
+              43.3691993
+            ],
+            [
+              -8.4215766,
+              43.3691922
+            ],
+            [
+              -8.4215796,
+              43.3691776
+            ],
+            [
+              -8.4216043,
+              43.3691612
+            ],
+            [
+              -8.4216874,
+              43.3691705
+            ],
+            [
+              -8.4217109,
+              43.3690624
+            ],
+            [
+              -8.4214094,
+              43.3690283
+            ],
+            [
+              -8.421408,
+              43.369018
+            ],
+            [
+              -8.421405,
+              43.369011
+            ],
+            [
+              -8.421397,
+              43.369005
+            ],
+            [
+              -8.4213828,
+              43.369003
+            ],
+            [
+              -8.4213694,
+              43.3690044
+            ],
+            [
+              -8.4213602,
+              43.3690111
+            ],
+            [
+              -8.4213562,
+              43.3690209
+            ],
+            [
+              -8.4213523,
+              43.3690407
+            ],
+            [
+              -8.4213343,
+              43.3691311
+            ],
+            [
+              -8.4213135,
+              43.3691309
+            ],
+            [
+              -8.4212903,
+              43.3692414
+            ],
+            [
+              -8.4212322,
+              43.3694097
+            ],
+            [
+              -8.421197,
+              43.3694924
+            ],
+            [
+              -8.4212083,
+              43.3694978
+            ],
+            [
+              -8.4212065,
+              43.3695045
+            ],
+            [
+              -8.4212312,
+              43.3695279
+            ],
+            [
+              -8.4212278,
+              43.3695392
+            ],
+            [
+              -8.4212393,
+              43.3695496
+            ],
+            [
+              -8.4212494,
+              43.3695587
+            ],
+            [
+              -8.4212617,
+              43.369559
+            ],
+            [
+              -8.4212867,
+              43.3695831
+            ],
+            [
+              -8.4212836,
+              43.3695958
+            ],
+            [
+              -8.4213177,
+              43.3696066
+            ],
+            [
+              -8.4213137,
+              43.3696131
+            ],
+            [
+              -8.4214473,
+              43.3696571
+            ],
+            [
+              -8.4214395,
+              43.3696723
+            ],
+            [
+              -8.4216868,
+              43.3697542
+            ],
+            [
+              -8.4216956,
+              43.3697402
+            ],
+            [
+              -8.4218666,
+              43.3697983
+            ],
+            [
+              -8.4219205,
+              43.3697058
+            ]
+          ]
+        ]
+      },
+      "id": "way/212740136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217746940",
+        "addr:city": "A Coruña",
+        "addr:country": "ES",
+        "addr:housenumber": "10",
+        "addr:postcode": "15008",
+        "addr:street": "Rúa da Fraga",
+        "building": "university",
+        "name": "Facultade de Ciencias - UDC",
+        "name:en": "Faculty of Science - UDC",
+        "name:es": "Facultad de Ciencias - UDC",
+        "name:gl": "Facultade de Ciencias - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 20 60",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_1701_20100205.pdf",
+        "website": "http://www.udc.es/centros_departamentos_servizos/centros/detalleCentro/?codigo=610"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4092557,
+              43.3268237
+            ],
+            [
+              -8.409286,
+              43.3267814
+            ],
+            [
+              -8.4094015,
+              43.3266198
+            ],
+            [
+              -8.4091995,
+              43.3265456
+            ],
+            [
+              -8.4091735,
+              43.3265836
+            ],
+            [
+              -8.4091486,
+              43.32658
+            ],
+            [
+              -8.4091259,
+              43.3265768
+            ],
+            [
+              -8.4091341,
+              43.3265486
+            ],
+            [
+              -8.409003,
+              43.326527
+            ],
+            [
+              -8.4089943,
+              43.3265545
+            ],
+            [
+              -8.4089491,
+              43.3265473
+            ],
+            [
+              -8.4089489,
+              43.3265049
+            ],
+            [
+              -8.4087212,
+              43.3265133
+            ],
+            [
+              -8.4087238,
+              43.3265571
+            ],
+            [
+              -8.4086731,
+              43.3265591
+            ],
+            [
+              -8.4086285,
+              43.3265794
+            ],
+            [
+              -8.4085967,
+              43.3265428
+            ],
+            [
+              -8.4084066,
+              43.3266314
+            ],
+            [
+              -8.4084378,
+              43.3266704
+            ],
+            [
+              -8.4084088,
+              43.3266945
+            ],
+            [
+              -8.4083791,
+              43.3266743
+            ],
+            [
+              -8.4082889,
+              43.326749
+            ],
+            [
+              -8.4083191,
+              43.3267688
+            ],
+            [
+              -8.4082926,
+              43.3267912
+            ],
+            [
+              -8.4082351,
+              43.326769
+            ],
+            [
+              -8.4080246,
+              43.3270637
+            ],
+            [
+              -8.4080495,
+              43.3270736
+            ],
+            [
+              -8.4079927,
+              43.327156
+            ],
+            [
+              -8.4079677,
+              43.3271469
+            ],
+            [
+              -8.4078616,
+              43.3272946
+            ],
+            [
+              -8.4081162,
+              43.3273887
+            ],
+            [
+              -8.4082161,
+              43.3272428
+            ],
+            [
+              -8.4081595,
+              43.3272212
+            ],
+            [
+              -8.4081786,
+              43.327195
+            ],
+            [
+              -8.408187,
+              43.3271978
+            ],
+            [
+              -8.4081945,
+              43.3271967
+            ],
+            [
+              -8.4082116,
+              43.3271734
+            ],
+            [
+              -8.4082101,
+              43.3271691
+            ],
+            [
+              -8.4082006,
+              43.3271653
+            ],
+            [
+              -8.4082195,
+              43.3271403
+            ],
+            [
+              -8.4082735,
+              43.3271617
+            ],
+            [
+              -8.4084371,
+              43.3269353
+            ],
+            [
+              -8.4084857,
+              43.326868
+            ],
+            [
+              -8.4084301,
+              43.3268461
+            ],
+            [
+              -8.4084621,
+              43.3268199
+            ],
+            [
+              -8.4084691,
+              43.3268241
+            ],
+            [
+              -8.408476,
+              43.3268243
+            ],
+            [
+              -8.4085013,
+              43.3268038
+            ],
+            [
+              -8.4085013,
+              43.3267989
+            ],
+            [
+              -8.4084933,
+              43.326793
+            ],
+            [
+              -8.4085241,
+              43.3267691
+            ],
+            [
+              -8.4085767,
+              43.3268239
+            ],
+            [
+              -8.4087504,
+              43.3267425
+            ],
+            [
+              -8.4089573,
+              43.3267343
+            ],
+            [
+              -8.4089553,
+              43.3266639
+            ],
+            [
+              -8.4090066,
+              43.3266725
+            ],
+            [
+              -8.4090045,
+              43.326679
+            ],
+            [
+              -8.4090093,
+              43.3266841
+            ],
+            [
+              -8.4090418,
+              43.3266885
+            ],
+            [
+              -8.4090493,
+              43.3266865
+            ],
+            [
+              -8.4090515,
+              43.3266784
+            ],
+            [
+              -8.4091014,
+              43.3266866
+            ],
+            [
+              -8.4090864,
+              43.3267089
+            ],
+            [
+              -8.4090595,
+              43.3267489
+            ],
+            [
+              -8.4092557,
+              43.3268237
+            ]
+          ]
+        ]
+      },
+      "id": "way/217746940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217746942",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15071",
+        "addr:street": "Campus da Zapateira",
+        "building": "university",
+        "operator": "Universidade da Coruña"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4094041,
+              43.3265827
+            ],
+            [
+              -8.4095228,
+              43.3264226
+            ],
+            [
+              -8.4090849,
+              43.3262578
+            ],
+            [
+              -8.4089727,
+              43.3264134
+            ],
+            [
+              -8.409176,
+              43.3264931
+            ],
+            [
+              -8.4092059,
+              43.3265049
+            ],
+            [
+              -8.4094041,
+              43.3265827
+            ]
+          ]
+        ]
+      },
+      "id": "way/217746942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218861616",
+        "addr:city": "A Coruña",
+        "addr:country": "ES",
+        "addr:housenumber": "38",
+        "addr:place": "Lugar As Xubias de Arriba",
+        "addr:postcode": "15006",
+        "building": "university",
+        "building:levels": "3",
+        "name": "Facultade de Ciencias da Saúde - UDC",
+        "name:en": "Faculty of Health Sciences - UDC",
+        "name:es": "Facultad de Ciencias de la Salud - UDC",
+        "name:gl": "Facultade de Ciencias da Saúde - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 58 34",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_0846_20210225.pdf",
+        "website": "http://www.udc.es/centros_departamentos_servizos/centros/detalleCentro/?codigo=653"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.3852455,
+              43.3451067
+            ],
+            [
+              -8.3853471,
+              43.3452311
+            ],
+            [
+              -8.385431,
+              43.3451889
+            ],
+            [
+              -8.3854395,
+              43.3451994
+            ],
+            [
+              -8.3854202,
+              43.3452085
+            ],
+            [
+              -8.385447,
+              43.3452392
+            ],
+            [
+              -8.3855564,
+              43.3451876
+            ],
+            [
+              -8.3855272,
+              43.3451588
+            ],
+            [
+              -8.385474,
+              43.3451823
+            ],
+            [
+              -8.3854655,
+              43.3451722
+            ],
+            [
+              -8.3855563,
+              43.3451278
+            ],
+            [
+              -8.3854517,
+              43.3450146
+            ],
+            [
+              -8.3852455,
+              43.3451067
+            ]
+          ]
+        ]
+      },
+      "id": "way/218861616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/236564851",
+        "addr:city": "A Coruña",
+        "addr:country": "ES",
+        "addr:housenumber": "27",
+        "addr:postcode": "15008",
+        "addr:street": "Rúa da Fraga",
+        "building": "university",
+        "building:levels": "6",
+        "name": "Escola Universitaria de Arquitectura Técnica - UDC",
+        "name:en": "University College of Technical Architecture - UDC",
+        "name:es": "Escuela Universitaria de Arquitectura Técnica - UDC",
+        "name:gl": "Escola Universitaria de Arquitectura Técnica - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 27 26",
+        "website": "http://www.udc.es/centros_departamentos_servizos/centros/detalleCentro/?codigo=670"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4080326,
+              43.3284089
+            ],
+            [
+              -8.4080779,
+              43.3283449
+            ],
+            [
+              -8.4081133,
+              43.3283582
+            ],
+            [
+              -8.4081955,
+              43.3282423
+            ],
+            [
+              -8.4081597,
+              43.3282288
+            ],
+            [
+              -8.4082402,
+              43.3281152
+            ],
+            [
+              -8.4083123,
+              43.3281422
+            ],
+            [
+              -8.4084733,
+              43.3279149
+            ],
+            [
+              -8.4084006,
+              43.3278877
+            ],
+            [
+              -8.4084429,
+              43.327828
+            ],
+            [
+              -8.4084658,
+              43.3278365
+            ],
+            [
+              -8.4084874,
+              43.3278446
+            ],
+            [
+              -8.4086542,
+              43.3276091
+            ],
+            [
+              -8.4086377,
+              43.3276029
+            ],
+            [
+              -8.4084704,
+              43.3275401
+            ],
+            [
+              -8.4084765,
+              43.3275315
+            ],
+            [
+              -8.4083535,
+              43.3274854
+            ],
+            [
+              -8.4083268,
+              43.3275232
+            ],
+            [
+              -8.4083241,
+              43.3275269
+            ],
+            [
+              -8.4081404,
+              43.3277863
+            ],
+            [
+              -8.4080834,
+              43.327765
+            ],
+            [
+              -8.407961,
+              43.3279378
+            ],
+            [
+              -8.4080189,
+              43.3279595
+            ],
+            [
+              -8.4077645,
+              43.3283187
+            ],
+            [
+              -8.4078855,
+              43.328364
+            ],
+            [
+              -8.4078912,
+              43.3283559
+            ],
+            [
+              -8.4080326,
+              43.3284089
+            ]
+          ]
+        ]
+      },
+      "id": "way/236564851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254741198",
+        "addr:city": "A Coruña",
+        "addr:country": "ES",
+        "addr:housenumber": "47",
+        "addr:postcode": "15011",
+        "addr:street": "Paseo de Ronda",
+        "building": "university",
+        "name": "Pavillón Deportivo. Riazor - UDC",
+        "name:en": "Sports Pavillion. Riazor - UDC",
+        "name:es": "Pabellón Deportivo. Riazor - UDC",
+        "name:gl": "Pavillón Deportivo. Riazor - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 45 00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4217276,
+              43.3694454
+            ],
+            [
+              -8.4220789,
+              43.3696165
+            ],
+            [
+              -8.4222521,
+              43.3697008
+            ],
+            [
+              -8.4224736,
+              43.3694605
+            ],
+            [
+              -8.421949,
+              43.3692051
+            ],
+            [
+              -8.4217276,
+              43.3694454
+            ]
+          ]
+        ]
+      },
+      "id": "way/254741198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/266431150",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "3",
+        "name": "Edificio Área Científica - UDC",
+        "name:en": "Scientific Area Building - UDC",
+        "name:es": "Edificio Área Científica - UDC",
+        "name:gl": "Edificio Área Científica - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 60 99",
+        "short_name": "Edificio Área Científica"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4089216,
+              43.3331928
+            ],
+            [
+              -8.4090017,
+              43.3332804
+            ],
+            [
+              -8.4094247,
+              43.3330455
+            ],
+            [
+              -8.4093912,
+              43.3330204
+            ],
+            [
+              -8.409441,
+              43.332995
+            ],
+            [
+              -8.409396,
+              43.3329524
+            ],
+            [
+              -8.4093294,
+              43.3329848
+            ],
+            [
+              -8.4092007,
+              43.3328836
+            ],
+            [
+              -8.4087612,
+              43.3330775
+            ],
+            [
+              -8.4088487,
+              43.3331724
+            ],
+            [
+              -8.4091791,
+              43.333031
+            ],
+            [
+              -8.4092041,
+              43.3330512
+            ],
+            [
+              -8.4089216,
+              43.3331928
+            ]
+          ]
+        ]
+      },
+      "id": "way/266431150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594765829",
+        "building": "university",
+        "building:levels": "4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.420649,
+              43.3705302
+            ],
+            [
+              -8.4206414,
+              43.3705253
+            ],
+            [
+              -8.4206431,
+              43.3705238
+            ],
+            [
+              -8.4203473,
+              43.3703462
+            ],
+            [
+              -8.4203406,
+              43.3703422
+            ],
+            [
+              -8.4203297,
+              43.3703511
+            ],
+            [
+              -8.420303,
+              43.3703347
+            ],
+            [
+              -8.4202976,
+              43.3703389
+            ],
+            [
+              -8.4202934,
+              43.3703365
+            ],
+            [
+              -8.4202915,
+              43.3703389
+            ],
+            [
+              -8.4202852,
+              43.3703375
+            ],
+            [
+              -8.4202915,
+              43.3702948
+            ],
+            [
+              -8.420273,
+              43.3702762
+            ],
+            [
+              -8.4202085,
+              43.3702693
+            ],
+            [
+              -8.4201797,
+              43.3702847
+            ],
+            [
+              -8.4201713,
+              43.3703232
+            ],
+            [
+              -8.4201595,
+              43.3703255
+            ],
+            [
+              -8.4201572,
+              43.3703209
+            ],
+            [
+              -8.4201243,
+              43.3703322
+            ],
+            [
+              -8.4201168,
+              43.3703217
+            ],
+            [
+              -8.4201085,
+              43.3703252
+            ],
+            [
+              -8.4201067,
+              43.3703229
+            ],
+            [
+              -8.419751,
+              43.3704462
+            ],
+            [
+              -8.4197587,
+              43.3704581
+            ],
+            [
+              -8.4196757,
+              43.370488
+            ],
+            [
+              -8.4196706,
+              43.3705012
+            ],
+            [
+              -8.4197088,
+              43.370558
+            ],
+            [
+              -8.4197253,
+              43.370563
+            ],
+            [
+              -8.4197769,
+              43.3705439
+            ],
+            [
+              -8.4197964,
+              43.370574
+            ],
+            [
+              -8.4198468,
+              43.3705568
+            ],
+            [
+              -8.4198496,
+              43.3705607
+            ],
+            [
+              -8.4199388,
+              43.3705305
+            ],
+            [
+              -8.4199358,
+              43.3705258
+            ],
+            [
+              -8.419986,
+              43.3705075
+            ],
+            [
+              -8.4199662,
+              43.3704783
+            ],
+            [
+              -8.4200518,
+              43.3704485
+            ],
+            [
+              -8.4200796,
+              43.3704603
+            ],
+            [
+              -8.4200688,
+              43.3705264
+            ],
+            [
+              -8.4200778,
+              43.370536
+            ],
+            [
+              -8.4201139,
+              43.37054
+            ],
+            [
+              -8.4200927,
+              43.3706592
+            ],
+            [
+              -8.4201145,
+              43.370661
+            ],
+            [
+              -8.4201298,
+              43.3706753
+            ],
+            [
+              -8.4202069,
+              43.3706831
+            ],
+            [
+              -8.4202291,
+              43.3706721
+            ],
+            [
+              -8.4202492,
+              43.3706741
+            ],
+            [
+              -8.4202685,
+              43.3705554
+            ],
+            [
+              -8.4202998,
+              43.3705591
+            ],
+            [
+              -8.4203158,
+              43.3705502
+            ],
+            [
+              -8.4203285,
+              43.3704834
+            ],
+            [
+              -8.4203621,
+              43.3704769
+            ],
+            [
+              -8.4204324,
+              43.3705188
+            ],
+            [
+              -8.4203595,
+              43.3705851
+            ],
+            [
+              -8.4204658,
+              43.3706498
+            ],
+            [
+              -8.4205397,
+              43.3705847
+            ],
+            [
+              -8.4205705,
+              43.370601
+            ],
+            [
+              -8.420649,
+              43.3705302
+            ]
+          ]
+        ]
+      },
+      "id": "way/594765829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594765832",
+        "building": "university",
+        "building:levels": "2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4206348,
+              43.370776
+            ],
+            [
+              -8.4205073,
+              43.3707008
+            ],
+            [
+              -8.4204277,
+              43.3707723
+            ],
+            [
+              -8.4204191,
+              43.3707674
+            ],
+            [
+              -8.4202984,
+              43.3708773
+            ],
+            [
+              -8.4199732,
+              43.3708473
+            ],
+            [
+              -8.41989,
+              43.3707177
+            ],
+            [
+              -8.4198807,
+              43.3707205
+            ],
+            [
+              -8.4198306,
+              43.3706385
+            ],
+            [
+              -8.4196804,
+              43.3706894
+            ],
+            [
+              -8.4197325,
+              43.3707687
+            ],
+            [
+              -8.4197199,
+              43.3707725
+            ],
+            [
+              -8.4198398,
+              43.3709579
+            ],
+            [
+              -8.4203487,
+              43.3710117
+            ],
+            [
+              -8.4203832,
+              43.3710153
+            ],
+            [
+              -8.4205663,
+              43.3708503
+            ],
+            [
+              -8.4205575,
+              43.3708447
+            ],
+            [
+              -8.4206348,
+              43.370776
+            ]
+          ]
+        ]
+      },
+      "id": "way/594765832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/676316185",
+        "building": "university"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4068525,
+              43.3276179
+            ],
+            [
+              -8.4070788,
+              43.3274238
+            ],
+            [
+              -8.4070096,
+              43.3273811
+            ],
+            [
+              -8.4067833,
+              43.3275752
+            ],
+            [
+              -8.4068525,
+              43.3276179
+            ]
+          ]
+        ]
+      },
+      "id": "way/676316185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/798153685",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "1",
+        "addr:place": "Lugar As Xubias de Arriba",
+        "addr:postcode": "15006",
+        "building": "university",
+        "building:levels": "4",
+        "description": "Sanatorio Marítimo de Oza: Antigo pavillón de colonias",
+        "name": "Facultade de Fisioterapia e Enfermaría - UDC",
+        "name:en": "Faculty of Physiotherapy - UDC",
+        "name:es": "Facultad de Fisioterapia y Enfermería - UDC",
+        "name:gl": "Facultade de Fisioterapia e Enfermaría - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 58 34",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_0846_20210225.pdf",
+        "website": "https://www.udc.gal/gl/sobreUDC/localizacion/corunha/oza/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.3866272,
+              43.3473711
+            ],
+            [
+              -8.3865843,
+              43.3473533
+            ],
+            [
+              -8.3865203,
+              43.3474356
+            ],
+            [
+              -8.3871101,
+              43.34768
+            ],
+            [
+              -8.3870647,
+              43.3477146
+            ],
+            [
+              -8.3873321,
+              43.3479014
+            ],
+            [
+              -8.387426,
+              43.3478299
+            ],
+            [
+              -8.3873594,
+              43.3477833
+            ],
+            [
+              -8.3874753,
+              43.3478313
+            ],
+            [
+              -8.3875392,
+              43.3477491
+            ],
+            [
+              -8.3867936,
+              43.3474401
+            ],
+            [
+              -8.386824,
+              43.3474009
+            ],
+            [
+              -8.3870654,
+              43.347501
+            ],
+            [
+              -8.3870593,
+              43.3475088
+            ],
+            [
+              -8.387113,
+              43.347531
+            ],
+            [
+              -8.3872105,
+              43.3474058
+            ],
+            [
+              -8.3869155,
+              43.3472834
+            ],
+            [
+              -8.3865131,
+              43.3471168
+            ],
+            [
+              -8.3864595,
+              43.3470945
+            ],
+            [
+              -8.386362,
+              43.3472198
+            ],
+            [
+              -8.3864156,
+              43.347242
+            ],
+            [
+              -8.3864217,
+              43.3472342
+            ],
+            [
+              -8.38647,
+              43.3472542
+            ],
+            [
+              -8.3865076,
+              43.3472697
+            ],
+            [
+              -8.3865611,
+              43.347292
+            ],
+            [
+              -8.3865987,
+              43.3473076
+            ],
+            [
+              -8.3866577,
+              43.347332
+            ],
+            [
+              -8.3866272,
+              43.3473711
+            ]
+          ]
+        ]
+      },
+      "id": "way/798153685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/798153726",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "2",
+        "addr:postcode": "15001",
+        "addr:street": "Avenida do Dique de Abrigo",
+        "building": "university",
+        "building:levels": "3",
+        "image": "File:Aula Náutica-Universidade da Coruña.jpg",
+        "name": "Aula Náutica",
+        "name:en": "Nautical Classroom",
+        "name:es": "Aula Náutica",
+        "name:gl": "Aula Náutica",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 19 04",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_0604_20131015.pdf",
+        "website": "https://www.udc.gal/gl/sobreUDC/localizacion/corunha/maestranza/aula_nautica/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.3862862,
+              43.3690901
+            ],
+            [
+              -8.3863659,
+              43.368975
+            ],
+            [
+              -8.3861419,
+              43.3688931
+            ],
+            [
+              -8.3860622,
+              43.3690082
+            ],
+            [
+              -8.3862862,
+              43.3690901
+            ]
+          ]
+        ]
+      },
+      "id": "way/798153726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/812943257",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "5",
+        "building:levels:underground": "3",
+        "name": "Facultade de Ciencias da Educación - UDC",
+        "name:en": "Faculty of Educational Studies - UDC",
+        "name:es": "Facultad de Ciencias de la Educación - UDC",
+        "name:gl": "Facultade de Ciencias da Educación - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 46 48",
+        "short_name": "Facultade Ciencias da Educación",
+        "short_name:en": "Educational Studies Faculty",
+        "short_name:es": "Facultad Ciencias de la Educación",
+        "short_name:gl": "Facultade Ciencias da Educación",
+        "website": "https://www.udc.gal/centros_departamentos_servizos/centros/detalleCentro/?codigo=652"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4157824,
+              43.3352213
+            ],
+            [
+              -8.4158236,
+              43.3352577
+            ],
+            [
+              -8.4158667,
+              43.3352295
+            ],
+            [
+              -8.4158867,
+              43.3352146
+            ],
+            [
+              -8.4159061,
+              43.3351989
+            ],
+            [
+              -8.4159244,
+              43.3351826
+            ],
+            [
+              -8.4159414,
+              43.3351657
+            ],
+            [
+              -8.4159576,
+              43.3351482
+            ],
+            [
+              -8.4159728,
+              43.3351302
+            ],
+            [
+              -8.4159867,
+              43.3351117
+            ],
+            [
+              -8.4159996,
+              43.3350929
+            ],
+            [
+              -8.4160113,
+              43.3350737
+            ],
+            [
+              -8.4160206,
+              43.3350555
+            ],
+            [
+              -8.4160289,
+              43.3350372
+            ],
+            [
+              -8.4160362,
+              43.3350187
+            ],
+            [
+              -8.4160424,
+              43.3349999
+            ],
+            [
+              -8.4160477,
+              43.3349809
+            ],
+            [
+              -8.4160519,
+              43.3349619
+            ],
+            [
+              -8.4160571,
+              43.3349234
+            ],
+            [
+              -8.416058,
+              43.3348846
+            ],
+            [
+              -8.4160568,
+              43.3348652
+            ],
+            [
+              -8.415992,
+              43.3348685
+            ],
+            [
+              -8.4158151,
+              43.3348767
+            ],
+            [
+              -8.4158132,
+              43.334862
+            ],
+            [
+              -8.4158111,
+              43.3348511
+            ],
+            [
+              -8.4158055,
+              43.3348299
+            ],
+            [
+              -8.4157977,
+              43.3348089
+            ],
+            [
+              -8.4157931,
+              43.3347987
+            ],
+            [
+              -8.4157879,
+              43.3347885
+            ],
+            [
+              -8.4157801,
+              43.3347912
+            ],
+            [
+              -8.4157756,
+              43.3347842
+            ],
+            [
+              -8.4157549,
+              43.334757
+            ],
+            [
+              -8.4157432,
+              43.334744
+            ],
+            [
+              -8.4157247,
+              43.334725
+            ],
+            [
+              -8.4157163,
+              43.3347172
+            ],
+            [
+              -8.415752,
+              43.3346954
+            ],
+            [
+              -8.415892,
+              43.3348215
+            ],
+            [
+              -8.4159093,
+              43.3348111
+            ],
+            [
+              -8.4159356,
+              43.3348349
+            ],
+            [
+              -8.4160058,
+              43.334792
+            ],
+            [
+              -8.4160035,
+              43.3347904
+            ],
+            [
+              -8.4160231,
+              43.3347777
+            ],
+            [
+              -8.415805,
+              43.334584
+            ],
+            [
+              -8.4157236,
+              43.3346324
+            ],
+            [
+              -8.4157139,
+              43.3346212
+            ],
+            [
+              -8.4157609,
+              43.3345993
+            ],
+            [
+              -8.4157651,
+              43.3346027
+            ],
+            [
+              -8.4158404,
+              43.334557
+            ],
+            [
+              -8.4156549,
+              43.3343935
+            ],
+            [
+              -8.4155786,
+              43.3344395
+            ],
+            [
+              -8.4155755,
+              43.3344361
+            ],
+            [
+              -8.4155365,
+              43.3344543
+            ],
+            [
+              -8.4152882,
+              43.3341699
+            ],
+            [
+              -8.4151349,
+              43.3342413
+            ],
+            [
+              -8.4151182,
+              43.3342223
+            ],
+            [
+              -8.4150783,
+              43.3342463
+            ],
+            [
+              -8.4150686,
+              43.334235
+            ],
+            [
+              -8.4149453,
+              43.3342922
+            ],
+            [
+              -8.4149684,
+              43.3343186
+            ],
+            [
+              -8.4153194,
+              43.3347216
+            ],
+            [
+              -8.4152691,
+              43.334745
+            ],
+            [
+              -8.4153563,
+              43.3348224
+            ],
+            [
+              -8.4153781,
+              43.3348117
+            ],
+            [
+              -8.4153946,
+              43.3348505
+            ],
+            [
+              -8.415404,
+              43.3348484
+            ],
+            [
+              -8.4154116,
+              43.3348472
+            ],
+            [
+              -8.4154195,
+              43.3348468
+            ],
+            [
+              -8.4154275,
+              43.334847
+            ],
+            [
+              -8.4154354,
+              43.334848
+            ],
+            [
+              -8.4154429,
+              43.3348495
+            ],
+            [
+              -8.4154501,
+              43.3348517
+            ],
+            [
+              -8.4154571,
+              43.3348544
+            ],
+            [
+              -8.4154636,
+              43.3348578
+            ],
+            [
+              -8.4154733,
+              43.3348646
+            ],
+            [
+              -8.415447,
+              43.3348804
+            ],
+            [
+              -8.4154495,
+              43.3348828
+            ],
+            [
+              -8.4154515,
+              43.3348855
+            ],
+            [
+              -8.4154531,
+              43.3348884
+            ],
+            [
+              -8.4154542,
+              43.3348915
+            ],
+            [
+              -8.4154547,
+              43.3348976
+            ],
+            [
+              -8.4154545,
+              43.3349006
+            ],
+            [
+              -8.4154535,
+              43.3349035
+            ],
+            [
+              -8.4154504,
+              43.3349093
+            ],
+            [
+              -8.4154479,
+              43.334912
+            ],
+            [
+              -8.4154925,
+              43.3349325
+            ],
+            [
+              -8.4154852,
+              43.3349394
+            ],
+            [
+              -8.415473,
+              43.3349478
+            ],
+            [
+              -8.4155394,
+              43.3350065
+            ],
+            [
+              -8.4156631,
+              43.3351159
+            ],
+            [
+              -8.4156874,
+              43.3350999
+            ],
+            [
+              -8.4157025,
+              43.3350887
+            ],
+            [
+              -8.415724,
+              43.335071
+            ],
+            [
+              -8.4157434,
+              43.3350521
+            ],
+            [
+              -8.4157511,
+              43.3350558
+            ],
+            [
+              -8.4157587,
+              43.3350472
+            ],
+            [
+              -8.4157727,
+              43.3350294
+            ],
+            [
+              -8.4157846,
+              43.3350108
+            ],
+            [
+              -8.4157897,
+              43.3350013
+            ],
+            [
+              -8.4157985,
+              43.3349818
+            ],
+            [
+              -8.4158019,
+              43.3349718
+            ],
+            [
+              -8.415809,
+              43.334945
+            ],
+            [
+              -8.4158371,
+              43.3349464
+            ],
+            [
+              -8.4158421,
+              43.3349113
+            ],
+            [
+              -8.4158814,
+              43.334914
+            ],
+            [
+              -8.4158808,
+              43.3349228
+            ],
+            [
+              -8.4158786,
+              43.334941
+            ],
+            [
+              -8.4158751,
+              43.334959
+            ],
+            [
+              -8.4158701,
+              43.3349768
+            ],
+            [
+              -8.4158641,
+              43.3349944
+            ],
+            [
+              -8.415856,
+              43.335014
+            ],
+            [
+              -8.4158314,
+              43.3350063
+            ],
+            [
+              -8.4158099,
+              43.3350424
+            ],
+            [
+              -8.4158338,
+              43.3350501
+            ],
+            [
+              -8.4158149,
+              43.3350745
+            ],
+            [
+              -8.4158055,
+              43.3350852
+            ],
+            [
+              -8.4157955,
+              43.3350955
+            ],
+            [
+              -8.4157741,
+              43.3351153
+            ],
+            [
+              -8.4157509,
+              43.3351338
+            ],
+            [
+              -8.4157385,
+              43.3351427
+            ],
+            [
+              -8.4157123,
+              43.3351593
+            ],
+            [
+              -8.4157824,
+              43.3352213
+            ]
+          ]
+        ]
+      },
+      "id": "way/812943257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/812943293",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15008",
+        "addr:street": "Campus de Elviña",
+        "building": "university",
+        "building:levels": "3",
+        "building:levels:underground": "4",
+        "name": "Edificio de Servizos Centrais de Investigación - UDC",
+        "name:en": "Central Services of Research Building - UDC",
+        "name:es": "Edificio de Servicios Centrales de Investigación - ESCI - UDC",
+        "name:gl": "Edificio de Servizos Centrais de Investigación - UDC",
+        "nohousenumber": "yes",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 881 01 26 98",
+        "website": "https://www.udc.gal/sobreUDC/localizacion/corunha/elvinha/serv_centrais/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4119954,
+              43.3310577
+            ],
+            [
+              -8.4120484,
+              43.3310584
+            ],
+            [
+              -8.41205,
+              43.3310048
+            ],
+            [
+              -8.4119969,
+              43.3310039
+            ],
+            [
+              -8.4120074,
+              43.3306249
+            ],
+            [
+              -8.4116961,
+              43.3306203
+            ],
+            [
+              -8.4116734,
+              43.3314323
+            ],
+            [
+              -8.4119847,
+              43.3314368
+            ],
+            [
+              -8.4119954,
+              43.3310577
+            ]
+          ]
+        ]
+      },
+      "id": "way/812943293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/812943301",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "29",
+        "addr:postcode": "15008",
+        "addr:street": "Rúa da Fraga",
+        "building": "university",
+        "building:levels": "2",
+        "building:levels:underground": "1",
+        "name": "Casa do Francés - UDC",
+        "name:en": "Casa do Francés - UDC",
+        "name:es": "Casa del Francés - UDC",
+        "name:gl": "Casa do Francés - UDC",
+        "operator": "Universidade da Coruña",
+        "phone": "+34 981 16 70 00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4077094,
+              43.3285077
+            ],
+            [
+              -8.4077128,
+              43.3284519
+            ],
+            [
+              -8.4076331,
+              43.3284506
+            ],
+            [
+              -8.4076347,
+              43.3284035
+            ],
+            [
+              -8.4075788,
+              43.3284028
+            ],
+            [
+              -8.4075718,
+              43.3285268
+            ],
+            [
+              -8.4075677,
+              43.3286009
+            ],
+            [
+              -8.4074143,
+              43.3285941
+            ],
+            [
+              -8.4073971,
+              43.3286505
+            ],
+            [
+              -8.4076367,
+              43.3286663
+            ],
+            [
+              -8.4076384,
+              43.3286292
+            ],
+            [
+              -8.4077019,
+              43.3286309
+            ],
+            [
+              -8.4077094,
+              43.3285077
+            ]
+          ]
+        ]
+      },
+      "id": "way/812943301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882900722",
+        "building": "university",
+        "building:levels": "1",
+        "name": "Biovalvo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4117012,
+              43.3301433
+            ],
+            [
+              -8.4116992,
+              43.3301445
+            ],
+            [
+              -8.411698,
+              43.3301459
+            ],
+            [
+              -8.4116964,
+              43.3301491
+            ],
+            [
+              -8.4116968,
+              43.3301532
+            ],
+            [
+              -8.4116988,
+              43.3301585
+            ],
+            [
+              -8.4117077,
+              43.3301736
+            ],
+            [
+              -8.4117214,
+              43.3301942
+            ],
+            [
+              -8.4117386,
+              43.3302173
+            ],
+            [
+              -8.411743,
+              43.3302225
+            ],
+            [
+              -8.4117466,
+              43.3302255
+            ],
+            [
+              -8.4117507,
+              43.330228
+            ],
+            [
+              -8.4117544,
+              43.3302297
+            ],
+            [
+              -8.4117626,
+              43.3302321
+            ],
+            [
+              -8.4117661,
+              43.3302326
+            ],
+            [
+              -8.4117712,
+              43.3302327
+            ],
+            [
+              -8.4117767,
+              43.3302323
+            ],
+            [
+              -8.4117819,
+              43.330231
+            ],
+            [
+              -8.4117882,
+              43.3302281
+            ],
+            [
+              -8.4117963,
+              43.3302224
+            ],
+            [
+              -8.4118001,
+              43.3302187
+            ],
+            [
+              -8.411805,
+              43.3302126
+            ],
+            [
+              -8.411808,
+              43.3302064
+            ],
+            [
+              -8.4118089,
+              43.3302036
+            ],
+            [
+              -8.4118101,
+              43.3301963
+            ],
+            [
+              -8.41181,
+              43.3301916
+            ],
+            [
+              -8.4118094,
+              43.3301879
+            ],
+            [
+              -8.4118079,
+              43.3301831
+            ],
+            [
+              -8.4118061,
+              43.330179
+            ],
+            [
+              -8.4118033,
+              43.3301743
+            ],
+            [
+              -8.4117997,
+              43.3301697
+            ],
+            [
+              -8.4117952,
+              43.3301651
+            ],
+            [
+              -8.4117907,
+              43.3301614
+            ],
+            [
+              -8.4117859,
+              43.3301581
+            ],
+            [
+              -8.4117807,
+              43.3301554
+            ],
+            [
+              -8.4117717,
+              43.3301518
+            ],
+            [
+              -8.4117678,
+              43.3301508
+            ],
+            [
+              -8.4117566,
+              43.3301486
+            ],
+            [
+              -8.4117112,
+              43.330142
+            ],
+            [
+              -8.4117056,
+              43.330142
+            ],
+            [
+              -8.4117012,
+              43.3301433
+            ]
+          ]
+        ]
+      },
+      "id": "way/882900722"
+    }
+  ]
+}

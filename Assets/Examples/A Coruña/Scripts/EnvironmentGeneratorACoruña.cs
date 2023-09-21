@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using TriangleNet.Topology;
 using SEGAR;
 using Newtonsoft.Json.Linq;
+using System;
+using TriangleNet.Geometry;
 
 public class EnvironmentGeneratorACoruña : EnvironmentGenerator
 {
@@ -88,15 +90,5 @@ public class EnvironmentGeneratorACoruña : EnvironmentGenerator
             citizenAgent.gender = 1;
             citizenAgent.age = 18 + UnityEngine.Random.Range(0, 47);
         }
-    }
-
-    protected override void CreateRelevantPlace(JObject relevantPlace, int id)
-    {
-        GameObject agent =  Instantiate(placePrefab);
-        agent.name = "relevantPlace " + id;
-        Place place = agent.GetComponent<Place>();
-        place.type = ((JObject)relevantPlace["placeData"]).GetValue("type").ToString();
-        GeometryPlaces geometry = ((JObject)relevantPlace["geometry"]).ToObject<GeometryPlaces>();
-        agent.transform.position = new Vector3(Util.NormalizedMinMax(geometry.coordinates[0], xCoordMin, xCoordMax, newXCoordMin, newXCoordMax) * 1000, 0, Util.NormalizedMinMax(geometry.coordinates[1], zCoordMin, zCoordMax, newZCoordMin, newZCoordMax) * 1000);
     }
 }

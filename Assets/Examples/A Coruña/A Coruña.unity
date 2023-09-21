@@ -262,8 +262,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   censusData: {fileID: 4900000, guid: a9d5c3770e14dfd499c9ec0aa6ead2f9, type: 3}
-  placesData: {fileID: 4900000, guid: 3dbc5bcca55e6b44391480047ca53b1c, type: 3}
+  placesData: {fileID: 4900000, guid: 0b1dc321bf2daae48a0d782d31e6d9c9, type: 3}
   sectionsData: {fileID: 4900000, guid: 8e696bddaded14b4bbfe17fe06b5d0d9, type: 3}
+  roadsData: {fileID: 4900000, guid: 87ed21a1705bd1347bb76ef5d753b515, type: 3}
   censusDataJson:
     censusData: []
   xCoordMin: -9
@@ -276,10 +277,13 @@ MonoBehaviour:
   newZCoordMax: 50
   scaleFactorX: 1000
   scaleFactorZ: 1000
-  delimiter: {fileID: 2621930988049139768, guid: 79b529ee6601af04c9e1fd9b620c2bfa, type: 3}
-  citizenPrefab: {fileID: 7844397976596183405, guid: a459d69a1e09d85488e40f385cabc1ba, type: 3}
+  delimiter: {fileID: 2621930988049139768, guid: 601bc3b3466f2b7468a1dd6cdf947b18, type: 3}
+  citizenPrefab: {fileID: 7844397976596183405, guid: 50b59e870df025949a3ba9498e873839, type: 3}
   placePrefab: {fileID: 4157356643771507409, guid: 303b2a78a5262c14d8374d70c16d4c51, type: 3}
   showVertex: 1
+  material: {fileID: 2100000, guid: 0e019987a953b4c43b7bed14b976689f, type: 2}
+  roadMaterial: {fileID: 2100000, guid: 6c80324cee08b074ca90f7dcaa5b6374, type: 2}
+  road2Material: {fileID: 2100000, guid: e70f63d58a7367d498d979b33ad9ab1c, type: 2}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -454,7 +458,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1091005394}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7343.666, y: -1, z: 43471.945}
+  m_LocalPosition: {x: -7343.666, y: -2, z: 43471.945}
   m_LocalScale: {x: 1000, y: 2, z: 1000}
   m_ConstrainProportionsScale: 0
   m_Children: []

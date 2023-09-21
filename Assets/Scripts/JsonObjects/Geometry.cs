@@ -10,6 +10,23 @@ namespace SEGAR
     {
         public float[] coordinates;
     }
+
+    public class GeometryWayPlaces
+    {
+        public string type;
+        public float[][][] coordinates;
+    }
+
+    public class Tipo {
+        public string type;
+    }
+
+    public class GeometryRoads
+    {
+        public string type;
+        public float[][] coordinates;
+    }
+
 }
 
 

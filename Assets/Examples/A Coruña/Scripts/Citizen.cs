@@ -6,4 +6,9 @@ public class Citizen : MonoBehaviour
     public int gender;
     public int age;
 
+    void Update()
+    {
+    }
+
 }
+
