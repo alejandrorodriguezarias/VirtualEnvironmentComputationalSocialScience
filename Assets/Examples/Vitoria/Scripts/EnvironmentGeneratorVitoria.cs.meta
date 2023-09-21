@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 564a8a6b2641b14489d53ecbab9e1956
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - censusData: {instanceID: 0}
+  - placesData: {instanceID: 0}
+  - wayPlacesData: {instanceID: 0}
+  - sectionsData: {instanceID: 0}
+  - roadsData: {instanceID: 0}
+  - delimiter: {fileID: 2621930988049139768, guid: 601bc3b3466f2b7468a1dd6cdf947b18, type: 3}
+  - citizenPrefab: {fileID: 7844397976596183405, guid: 50b59e870df025949a3ba9498e873839, type: 3}
+  - placePrefab: {fileID: 4157356643771507409, guid: 303b2a78a5262c14d8374d70c16d4c51, type: 3}
+  - material: {fileID: 2100000, guid: 0e019987a953b4c43b7bed14b976689f, type: 2}
+  - roadMaterial: {fileID: 2100000, guid: e70f63d58a7367d498d979b33ad9ab1c, type: 2}
+  - road2Material: {fileID: 2100000, guid: 6c80324cee08b074ca90f7dcaa5b6374, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
