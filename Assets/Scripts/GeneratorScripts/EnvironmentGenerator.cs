@@ -55,9 +55,10 @@ namespace SEGAR {
             try
             {
                 CreateCitySections();
+                //DebugSections();
                 CreateBuildings();
                 CreateRoads();
-                //CreateSimulatedAgents();
+                CreateSimulatedAgents();
 
             }
             catch (Exception e)
@@ -125,6 +126,20 @@ namespace SEGAR {
             foreach (JObject relevantPlace in placesArray)
             {
                 CreateBuilding(relevantPlace, i);
+                i++;
+            }
+        }
+
+        public void DebugSections()
+        {
+
+            JObject places = JObject.Parse(sectionsData.text);
+            JArray placesArray = (JArray)places["sectionsData"];
+
+            int i = 0;
+            foreach (JObject relevantPlace in placesArray)
+            {
+                DebugSection(relevantPlace, i);
                 i++;
             }
         }
@@ -216,8 +231,57 @@ namespace SEGAR {
                 mesh.triangles = triangles;
                 mesh.RecalculateNormals();
                 meshRenderer.material = material;
-                //polygon.AddComponent<BoxCollider>();
+                polygon.AddComponent<BoxCollider>();
             }
+            polygon.AddComponent<Place>();
+            FeedBuildingWithData(relevantPlace, polygon);
+
+
+
+        }
+
+        protected void DebugSection(JObject relevantPlace, int id)
+        {
+            GameObject polygon = new GameObject("Building");
+            MeshFilter meshFilter = polygon.AddComponent<MeshFilter>();
+            MeshRenderer meshRenderer = polygon.AddComponent<MeshRenderer>();
+
+            Mesh mesh = new Mesh();
+            meshFilter.mesh = mesh;
+            Geometry geometry = ((JObject)relevantPlace["geometry"]).ToObject<Geometry>();
+            Polygon poly = new Polygon();
+            for (int i = 0; i < geometry.coordinates.Length; i++)
+            {
+                poly.Add(new Vertex(Util.NormalizedMinMax(geometry.coordinates[i][0], xCoordMin, xCoordMax, newXCoordMin, newXCoordMax) * 1000, Util.NormalizedMinMax(geometry.coordinates[i][1], zCoordMin, zCoordMax, newZCoordMin, newZCoordMax) * 1000));
+            }
+            TriangleNet.Mesh tMesh = (TriangleNet.Mesh)poly.Triangulate();
+
+            Vector3[] vertices = new Vector3[tMesh.Vertices.Count];
+            int[] triangles = new int[tMesh.Triangles.Count * 3];
+
+            int j = 0;
+            foreach (Vertex vertex in tMesh.Vertices)
+            {
+                vertices[j] = new Vector3((float)vertex.X, 4, (float)vertex.Y);
+                j++;
+            }
+            j = 0;
+            foreach (Triangle triangle in tMesh.Triangles)
+            {
+                triangles[j] = triangle.GetVertexID(0);
+                triangles[j + 2] = triangle.GetVertexID(1);
+                triangles[j + 1] = triangle.GetVertexID(2);
+                j = j + 3;
+            }
+
+            if (vertices.Length > 2)
+            {
+                mesh.vertices = vertices;
+                mesh.triangles = triangles;
+                mesh.RecalculateNormals();
+                meshRenderer.material.color = UnityEngine.Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
+            }
+
 
 
         }
@@ -294,6 +358,8 @@ namespace SEGAR {
                 }
             }
         }
+
+        abstract protected void FeedBuildingWithData(JObject buildingData, GameObject building);
 
     }
 

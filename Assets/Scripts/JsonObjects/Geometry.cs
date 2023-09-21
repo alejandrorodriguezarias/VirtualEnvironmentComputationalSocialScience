@@ -27,6 +27,10 @@ namespace SEGAR
         public float[][] coordinates;
     }
 
+    public class Features {
+        public string building;
+    }
+
 }
 
 

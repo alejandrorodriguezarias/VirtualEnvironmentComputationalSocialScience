@@ -91,4 +91,10 @@ public class EnvironmentGeneratorACoruña : EnvironmentGenerator
             citizenAgent.age = 18 + UnityEngine.Random.Range(0, 47);
         }
     }
+
+    protected override void FeedBuildingWithData(JObject buildingData, GameObject building)
+    {
+        Features features = ((JObject)buildingData["properties"]).ToObject<Features>();
+        building.GetComponent<Place>().type = features.building;
+    }
 }
