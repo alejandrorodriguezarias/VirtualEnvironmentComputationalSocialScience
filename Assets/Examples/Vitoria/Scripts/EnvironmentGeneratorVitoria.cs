@@ -96,4 +96,9 @@ public class EnvironmentGeneratorVitoria : EnvironmentGenerator
     {
         throw new NotImplementedException();
     }
+
+    protected override void FeedNodeWithData(JObject buildingData, GameObject building)
+    {
+        throw new NotImplementedException();
+    }
 }

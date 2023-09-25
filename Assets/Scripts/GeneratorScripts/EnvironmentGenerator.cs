@@ -16,6 +16,7 @@ namespace SEGAR {
         //public TextAsset wayPlacesData;
         public TextAsset sectionsData;
         public TextAsset roadsData;
+        public TextAsset nodesData;
 
         //json objects
         public CensusData censusDataJson;
@@ -47,6 +48,7 @@ namespace SEGAR {
         public Material material;
         public Material roadMaterial;
         public Material road2Material;
+
         /// <summary>
         /// It layers the census tracts, the relevant places and finally the citizens.
         /// </summary>
@@ -56,6 +58,7 @@ namespace SEGAR {
             {
                 CreateCitySections();
                 //DebugSections();
+                CreateNodes();
                 CreateBuildings();
                 CreateRoads();
                 CreateSimulatedAgents();
@@ -126,6 +129,20 @@ namespace SEGAR {
             foreach (JObject relevantPlace in placesArray)
             {
                 CreateBuilding(relevantPlace, i);
+                i++;
+            }
+        }
+
+        public void CreateNodes()
+        {
+
+            JObject places = JObject.Parse(nodesData.text);
+            JArray placesArray = (JArray)places["relevantPlacesData"];
+
+            int i = 0;
+            foreach (JObject relevantPlace in placesArray)
+            {
+                CreateNode(relevantPlace, i);
                 i++;
             }
         }
@@ -360,7 +377,15 @@ namespace SEGAR {
         }
 
         abstract protected void FeedBuildingWithData(JObject buildingData, GameObject building);
+        abstract protected void FeedNodeWithData(JObject buildingData, GameObject building);
 
+        public void CreateNode(JObject relevantPlace, int id) {
+            GeometryNodes geometry = ((JObject)relevantPlace["geometry"]).ToObject<GeometryNodes>();
+            GameObject place = Instantiate(placePrefab);
+            place.name = "node " + id; 
+            place.transform.position = new Vector3(Util.NormalizedMinMax(geometry.coordinates[0], xCoordMin, xCoordMax, newXCoordMin, newXCoordMax) * 1000, 0, Util.NormalizedMinMax(geometry.coordinates[1], zCoordMin, zCoordMax, newZCoordMin, newZCoordMax) * 1000);
+            FeedNodeWithData(relevantPlace, place);
+        }
     }
 
 }

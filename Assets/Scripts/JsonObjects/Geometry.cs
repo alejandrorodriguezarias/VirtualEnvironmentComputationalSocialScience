@@ -6,7 +6,7 @@ namespace SEGAR
         public float[][] coordinates;
     }
 
-    public class GeometryPlaces
+    public class GeometryNodes
     {
         public float[] coordinates;
     }
@@ -31,6 +31,10 @@ namespace SEGAR
         public string building;
     }
 
+    public class NodeFeatures
+    {
+        public string shop;
+    }
 }
 
 

@@ -265,6 +265,7 @@ MonoBehaviour:
   placesData: {fileID: 4900000, guid: 0b1dc321bf2daae48a0d782d31e6d9c9, type: 3}
   sectionsData: {fileID: 4900000, guid: 8e696bddaded14b4bbfe17fe06b5d0d9, type: 3}
   roadsData: {fileID: 4900000, guid: 87ed21a1705bd1347bb76ef5d753b515, type: 3}
+  nodesData: {fileID: 4900000, guid: cbbef6d6317e897459cefda8d984497d, type: 3}
   censusDataJson:
     censusData: []
   xCoordMin: -9
@@ -279,7 +280,7 @@ MonoBehaviour:
   scaleFactorZ: 1000
   delimiter: {fileID: 2621930988049139768, guid: 601bc3b3466f2b7468a1dd6cdf947b18, type: 3}
   citizenPrefab: {fileID: 7844397976596183405, guid: 50b59e870df025949a3ba9498e873839, type: 3}
-  placePrefab: {fileID: 4157356643771507409, guid: 303b2a78a5262c14d8374d70c16d4c51, type: 3}
+  placePrefab: {fileID: 4771605261614786423, guid: a2e40d05ae3702d48a55114ce9454d5f, type: 3}
   showVertex: 1
   material: {fileID: 2100000, guid: 0e019987a953b4c43b7bed14b976689f, type: 2}
   roadMaterial: {fileID: 2100000, guid: 6c80324cee08b074ca90f7dcaa5b6374, type: 2}

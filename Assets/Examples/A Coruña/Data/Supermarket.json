@@ -1,0 +1,2193 @@
+{
+  "relevantPlacesData": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/379842752",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "310",
+        "addr:postcode": "15011",
+        "addr:street": "Ronda de Outeiro",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "check_date:opening_hours": "2023-02-23",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-15:00,17:00-21:30",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.424374,
+          43.3661359
+        ]
+      },
+      "id": "node/379842752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388110684",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski",
+        "operator": "Eroski",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4231261,
+          43.3668856
+        ]
+      },
+      "id": "node/388110684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/470328680",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "419",
+        "addr:postcode": "15011",
+        "addr:street": "Ronda de Outeiro",
+        "alt_name": "Carrefour Os Rosales",
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "brand:wikipedia": "fr:Carrefour (enseigne)",
+        "name": "Carrefour",
+        "opening_hours": "Mo-Sa 09:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4256636,
+          43.3736281
+        ]
+      },
+      "id": "node/470328680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/470940094",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "18",
+        "addr:postcode": "15011",
+        "addr:street": "Rúa Emilio González López",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski",
+        "old_name": "Eroski Center",
+        "operator": "Eroski",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4327943,
+          43.3756172
+        ]
+      },
+      "id": "node/470940094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/851230319",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "1",
+        "addr:postcode": "15001",
+        "addr:street": "Praza de Santo Agostiño",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3979347,
+          43.3719116
+        ]
+      },
+      "id": "node/851230319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/859459276",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "29",
+        "addr:postcode": "15001",
+        "addr:street": "Rúa Panadeiras",
+        "brand": "Mercadona",
+        "brand:wikidata": "Q377705",
+        "brand:wikipedia": "es:Mercadona",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket",
+        "website": "https://www.mercadona.es",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3986422,
+          43.3729235
+        ]
+      },
+      "id": "node/859459276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1092941000",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "9",
+        "addr:postcode": "15008",
+        "addr:street": "Avenida Salvador de Madariaga",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "check_date:opening_hours": "2022-02-28",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4056952,
+          43.3479341
+        ]
+      },
+      "id": "node/1092941000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1350478547",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "54",
+        "addr:postcode": "15005",
+        "addr:street": "Rúa Sinforiano López",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski",
+        "opening_hours": "Mo-Sa 09:15-21:45",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.409093,
+          43.3593181
+        ]
+      },
+      "id": "node/1350478547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1710770970",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "24",
+        "addr:postcode": "15007",
+        "addr:street": "Rúa Marqués de Figueroa",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-15:00,17:00-21:30",
+        "shop": "supermarket",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_0372_20180711.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4082103,
+          43.3533985
+        ]
+      },
+      "id": "node/1710770970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1710830048",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "147",
+        "addr:postcode": "15009",
+        "addr:street": "Avenida de Monelos",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski",
+        "opening_hours": "Mo-Sa 09:30-21:45",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3987474,
+          43.3450679
+        ]
+      },
+      "id": "node/1710830048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712143675",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "53",
+        "addr:postcode": "15006",
+        "addr:street": "Rúa Ramón y Cajal",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "level": "0",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 10:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4016218,
+          43.3543045
+        ]
+      },
+      "id": "node/1712143675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1726364237",
+        "brand": "Covirán",
+        "brand:website": "https://www.coviran.es",
+        "brand:wikidata": "Q61070539",
+        "brand:wikipedia": "es:Covirán",
+        "name": "Covirán",
+        "name:es": "Covirán",
+        "name:pt": "Coviran",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4664593,
+          43.3334165
+        ]
+      },
+      "id": "node/1726364237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1726366263",
+        "addr:city": "Arteixo",
+        "addr:housenumber": "180",
+        "addr:postcode": "15140",
+        "addr:street": "Travesía de Meicende",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski City",
+        "opening_hours": "Jun-Sep: Mo-Sa 09:30-21:30; Oct-May: Mo-Sa 09:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4460102,
+          43.3468864
+        ]
+      },
+      "id": "node/1726366263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1742041669",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15002",
+        "addr:street": "Rúa Forcarei",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4038862,
+          43.3781433
+        ]
+      },
+      "id": "node/1742041669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1790050658",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "56",
+        "addr:postcode": "15002",
+        "addr:street": "Rúa Santo Tomás",
+        "brand": "Dia",
+        "brand:wikidata": "Q925132",
+        "brand:wikipedia": "es:DIA (supermercados)",
+        "name": "Dia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4009579,
+          43.3793798
+        ]
+      },
+      "id": "node/1790050658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1790050861",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "24",
+        "addr:postcode": "15002",
+        "addr:street": "Rúa Monte Alto",
+        "name": "Familia",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.401842,
+          43.3782906
+        ]
+      },
+      "id": "node/1790050861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1957094167",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15009",
+        "addr:street": "Avenida Casanova de Eirís",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "check_date:opening_hours": "2022-07-18",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:45",
+        "shop": "supermarket",
+        "start_date": "2017-06-29",
+        "website": "https://www.gadis.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3980721,
+          43.349659
+        ]
+      },
+      "id": "node/1957094167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378440940",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "136",
+        "addr:postcode": "15002",
+        "addr:street": "Avenida de Hércules",
+        "brand": "Eroski",
+        "name": "Familia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4060658,
+          43.3794443
+        ]
+      },
+      "id": "node/2378440940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2431391659",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "3",
+        "addr:postcode": "15011",
+        "addr:street": "Rúa Manuel Murguía",
+        "brand": "Supercor",
+        "brand:wikidata": "Q6135841",
+        "brand:wikipedia": "es:Supercor",
+        "name": "Supercor",
+        "opening_hours": "Mo-Sa 09:30-22:00",
+        "operator": "El Corte Inglés",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4198923,
+          43.3686908
+        ]
+      },
+      "id": "node/2431391659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2448539692",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "3",
+        "addr:postcode": "15011",
+        "addr:street": "Praza do Conservatorio",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4226455,
+          43.3711203
+        ]
+      },
+      "id": "node/2448539692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2718107459",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "32",
+        "addr:postcode": "15009",
+        "addr:street": "Rúa Enrique Mariñas Romero",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski",
+        "opening_hours": "Mo-Sa 09:30-21:45",
+        "shop": "supermarket",
+        "website": "https://www.eroski.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4055577,
+          43.3401776
+        ]
+      },
+      "id": "node/2718107459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2718116084",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "257",
+        "addr:postcode": "15010",
+        "addr:street": "Avenida de Fisterra",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-15:00,17:00-21:30",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4194757,
+          43.35885
+        ]
+      },
+      "id": "node/2718116084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2719797628",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "217",
+        "addr:postcode": "15007",
+        "addr:street": "Ronda de Outeiro",
+        "brand": "Mercadona",
+        "brand:wikidata": "Q377705",
+        "brand:wikipedia": "es:Mercadona",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket",
+        "website": "https://www.mercadona.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4197366,
+          43.3582878
+        ]
+      },
+      "id": "node/2719797628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2781181014",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "7",
+        "addr:postcode": "15002",
+        "addr:street": "Rúa Parque",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3989,
+          43.3774943
+        ]
+      },
+      "id": "node/2781181014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2977336908",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "10",
+        "addr:postcode": "15003",
+        "addr:street": "Rúa Juana de Vega",
+        "brand": "Supercor",
+        "brand:wikidata": "Q6135841",
+        "brand:wikipedia": "es:Supercor",
+        "name": "Supercor Exprés",
+        "opening_hours": "08:00-02:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4055787,
+          43.3671818
+        ]
+      },
+      "id": "node/2977336908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3356900238",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "9",
+        "addr:postcode": "15007",
+        "addr:street": "Rúa Tornos",
+        "name": "Familia",
+        "opening_hours": "Mo-Su 09:00-21:30",
+        "phone": "+34 981245160",
+        "shop": "supermarket",
+        "source": "Catastro 17-2-2015",
+        "website": "https://www.eroski.es/localizador-de-tiendas/supermercado-fr/a-coruna/a-coruna/familia-tornos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4182549,
+          43.3592153
+        ]
+      },
+      "id": "node/3356900238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3485223788",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "10",
+        "addr:postcode": "15008",
+        "addr:street": "Rúa José Pascual López Cortón",
+        "brand": "Mercadona",
+        "brand:wikidata": "Q377705",
+        "brand:wikipedia": "es:Mercadona",
+        "level": "1",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 10:00-22:00",
+        "shop": "supermarket",
+        "website": "https://www.mercadona.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4117791,
+          43.3367073
+        ]
+      },
+      "id": "node/3485223788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3524361505",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "212",
+        "addr:postcode": "15006",
+        "addr:street": "Avenida de Oza",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-14:00,17:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3886787,
+          43.3522863
+        ]
+      },
+      "id": "node/3524361505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3524361506",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "21-23",
+        "addr:postcode": "15009",
+        "addr:street": "Avenida da Concordia",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "check_date:opening_hours": "2022-10-01",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3936486,
+          43.3514652
+        ]
+      },
+      "id": "node/3524361506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3524361515",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "125-127",
+        "addr:postcode": "15009",
+        "addr:street": "Avenida de Monelos",
+        "brand": "Dia",
+        "brand:wikidata": "Q925132",
+        "brand:wikipedia": "es:DIA (supermercados)",
+        "name": "Dia",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 10:00-15:00,17:00-21:00; Su 10:30-14:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4008517,
+          43.3466774
+        ]
+      },
+      "id": "node/3524361515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3632090180",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "4-6",
+        "addr:postcode": "15004",
+        "addr:street": "Praza de Lugo",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4068783,
+          43.3658757
+        ]
+      },
+      "id": "node/3632090180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3723369375",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "134-138",
+        "addr:postcode": "15006",
+        "addr:street": "Avenida de Oza",
+        "brand": "Mercadona",
+        "brand:wikidata": "Q377705",
+        "brand:wikipedia": "es:Mercadona",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket",
+        "website": "https://www.mercadona.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3930245,
+          43.3531064
+        ]
+      },
+      "id": "node/3723369375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4126802490",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "4",
+        "addr:postcode": "15004",
+        "addr:street": "Rúa Costa Rica",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:45",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4087052,
+          43.3642698
+        ]
+      },
+      "id": "node/4126802490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4126802499",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "4-6",
+        "addr:postcode": "15005",
+        "addr:street": "Rúa Menéndez y Pelayo",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:45",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4059592,
+          43.3632092
+        ]
+      },
+      "id": "node/4126802499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4127978329",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "20",
+        "addr:postcode": "15004",
+        "addr:street": "Rúa Alfredo Vicenti",
+        "brand": "Gadis",
+        "brand:wikidata": "Q114398305",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4114649,
+          43.3672116
+        ]
+      },
+      "id": "node/4127978329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4136201128",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "15",
+        "addr:postcode": "15006",
+        "addr:street": "Avenida da Pasaxe",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:45",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3899769,
+          43.3519916
+        ]
+      },
+      "id": "node/4136201128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237634564",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "8-10",
+        "addr:postcode": "15004",
+        "addr:street": "Rúa Médico Rodríguez",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.409151,
+          43.3662916
+        ]
+      },
+      "id": "node/4237634564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237639915",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "158",
+        "addr:postcode": "15003",
+        "addr:street": "Rúa San Andrés",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4060669,
+          43.3682176
+        ]
+      },
+      "id": "node/4237639915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237655024",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "39",
+        "addr:postcode": "15003",
+        "addr:street": "Rúa do Socorro",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4030418,
+          43.3711262
+        ]
+      },
+      "id": "node/4237655024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237658809",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "115-117",
+        "addr:postcode": "15010",
+        "addr:street": "Ronda de Nelle",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4172672,
+          43.3628937
+        ]
+      },
+      "id": "node/4237658809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237660353",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "3-5",
+        "addr:postcode": "15010",
+        "addr:street": "Rúa Alcalde Liaño Flores",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:45",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4234515,
+          43.3630309
+        ]
+      },
+      "id": "node/4237660353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237664202",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "242",
+        "addr:postcode": "15010",
+        "addr:street": "Ronda de Outeiro",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "check_date:opening_hours": "2023-02-23",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "operator": "Gadisa",
+        "phone": "+34 981 14 84 55",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4206351,
+          43.3603165
+        ]
+      },
+      "id": "node/4237664202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4237670036",
+        "addr:city": "A Coruña",
+        "addr:postcode": "15010",
+        "addr:street": "Rúa Alcalde Salorio Suárez",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42464,
+          43.3602481
+        ]
+      },
+      "id": "node/4237670036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4966975671",
+        "addr:housenumber": "280",
+        "addr:postcode": "15010",
+        "addr:street": "Ronda de Outeiro",
+        "brand": "Froiz",
+        "brand:wikidata": "Q17070775",
+        "brand:wikipedia": "en:Froiz",
+        "name": "Froiz",
+        "opening_hours": "Mo-Sa 09:30-21:30",
+        "phone": "+34 981 25 50 13",
+        "shop": "supermarket",
+        "website": "https://www.froiz.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4230616,
+          43.3636579
+        ]
+      },
+      "id": "node/4966975671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5255845508",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "8",
+        "addr:postcode": "15008",
+        "addr:street": "Rúa das Orquídeas",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Fr 09:30-14:00,17:45-20:00; Sa 09:30-14:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4030843,
+          43.3456101
+        ]
+      },
+      "id": "node/5255845508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5398186083",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "2",
+        "addr:postcode": "15007",
+        "addr:street": "Rúa Ramón Cabanillas",
+        "brand": "Froiz",
+        "brand:wikidata": "Q17070775",
+        "brand:wikipedia": "en:Froiz",
+        "name": "Froiz",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4098794,
+          43.3558383
+        ]
+      },
+      "id": "node/5398186083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5398197878",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "17",
+        "addr:postcode": "15007",
+        "addr:street": "Rúa Ramón Cabanillas",
+        "brand": "Familia",
+        "name": "Familia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4109625,
+          43.3561567
+        ]
+      },
+      "id": "node/5398197878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5398247735",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "46",
+        "addr:postcode": "15007",
+        "addr:street": "Rúa San Vicente",
+        "brand": "Familia",
+        "name": "Familia",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4124755,
+          43.3535598
+        ]
+      },
+      "id": "node/5398247735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5398247737",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "144",
+        "addr:postcode": "15007",
+        "addr:street": "Ronda de Outeiro",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:45",
+        "phone": "+34 981 23 51 74",
+        "shop": "supermarket",
+        "website": "http://www.gadis.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4114704,
+          43.3551869
+        ]
+      },
+      "id": "node/5398247737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5409893926",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "14",
+        "addr:postcode": "15007",
+        "addr:street": "Rúa Marqués de Figueroa",
+        "brand": "Covirán",
+        "brand:website": "https://www.coviran.es",
+        "brand:wikidata": "Q61070539",
+        "brand:wikipedia": "es:Covirán",
+        "name": "Covirán",
+        "name:es": "Covirán",
+        "name:pt": "Coviran",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4079371,
+          43.3537063
+        ]
+      },
+      "id": "node/5409893926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5414785819",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "8",
+        "addr:postcode": "15008",
+        "addr:street": "Estrada dos Baños de Arteixo",
+        "name": "Alcampo",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket",
+        "start_date": "2023-06-16",
+        "website": "https://www.alcampo.es/compra-online/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4225161,
+          43.3485809
+        ]
+      },
+      "id": "node/5414785819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423574860",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "16",
+        "addr:postcode": "15006",
+        "addr:street": "Avenida de Oza",
+        "brand": "Froiz",
+        "brand:wikidata": "Q17070775",
+        "brand:wikipedia": "en:Froiz",
+        "name": "Froiz",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4030017,
+          43.3561323
+        ]
+      },
+      "id": "node/5423574860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5590254198",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "92",
+        "addr:postcode": "15011",
+        "addr:street": "Rúa Emilio González López",
+        "brand": "Dia",
+        "brand:wikidata": "Q925132",
+        "brand:wikipedia": "es:DIA (supermercados)",
+        "name": "Dia",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "operator": "Dia",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4314451,
+          43.3744273
+        ]
+      },
+      "id": "node/5590254198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5592798232",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "1",
+        "addr:place": "Lugar de Palavea",
+        "addr:postcode": "15009",
+        "brand": "Alcampo",
+        "brand:wikidata": "Q2832081",
+        "brand:wikipedia": "es:Alcampo",
+        "check_date:opening_hours": "2023-05-02",
+        "name": "Alcampo",
+        "opening_hours": "Mo-Sa 09:00-22:00",
+        "operator": "Alcampo",
+        "shop": "supermarket",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_0871_20170124.pdf",
+        "website": "https://www.alcampo.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3912762,
+          43.3289249
+        ]
+      },
+      "id": "node/5592798232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5592798238",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "5",
+        "addr:postcode": "15008",
+        "addr:street": "Rúa Francisco Pérez Carballo",
+        "alt_name": "Carrefour Alfonso Molina",
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "brand:wikipedia": "fr:Carrefour (enseigne)",
+        "name": "Carrefour",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.408379,
+          43.3387704
+        ]
+      },
+      "id": "node/5592798238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5633756888",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "20",
+        "addr:postcode": "15007",
+        "addr:street": "Rúa Nosa Señora da Luz",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "operator": "Gadisa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4162865,
+          43.3575756
+        ]
+      },
+      "id": "node/5633756888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5635206137",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "104",
+        "addr:postcode": "15002",
+        "addr:street": "Rúa da Torre",
+        "name": "Familia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3981316,
+          43.3780808
+        ]
+      },
+      "id": "node/5635206137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5906086743",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "66",
+        "addr:postcode": "15007",
+        "addr:street": "Avenida dos Mallos",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski",
+        "opening_hours": "Mo-Sa 09:15-21:45",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4134953,
+          43.354288
+        ]
+      },
+      "id": "node/5906086743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6093495711",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "4",
+        "addr:postcode": "15190",
+        "addr:street": "Rúa Illas Sisargas",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski",
+        "opening_hours": "Mo-Sa 09:15-22:00",
+        "shop": "supermarket",
+        "source:addr": "https://ide.coruna.es/descargas/cambioscallejero/CodVia_1458_20120309.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4294213,
+          43.3271231
+        ]
+      },
+      "id": "node/6093495711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6267652823",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "1",
+        "addr:postcode": "15007",
+        "addr:street": "Rúa Félix Estrada Catoira",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "level": "0",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:30-15:30,17:30-21:30",
+        "organic": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4064766,
+          43.3570709
+        ]
+      },
+      "id": "node/6267652823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6267654902",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "12",
+        "addr:postcode": "15007",
+        "addr:street": "Rúa Capitán Juan Varela",
+        "brand": "Familia",
+        "name": "Familia",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "organic": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4076057,
+          43.3556912
+        ]
+      },
+      "id": "node/6267654902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6267664646",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "15",
+        "addr:postcode": "15004",
+        "addr:street": "Rúa José Luis Pérez Cepeda",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski",
+        "organic": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4132153,
+          43.3652951
+        ]
+      },
+      "id": "node/6267664646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6291131120",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "2",
+        "addr:postcode": "15009",
+        "addr:street": "Travesía Rianxo",
+        "name": "Familia",
+        "operator": "Vegalsa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4013153,
+          43.3526509
+        ]
+      },
+      "id": "node/6291131120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298925886",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "16",
+        "addr:postcode": "15190",
+        "addr:street": "Avenida Novo Mesoiro",
+        "name": "Claudio Express",
+        "opening_hours": "10:00-22:00",
+        "operator": "Gadisa Retail",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.433984,
+          43.325685
+        ]
+      },
+      "id": "node/6298925886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6308104500",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "121",
+        "addr:postcode": "15006",
+        "addr:street": "Avenida de Oza",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:45",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3961812,
+          43.354321
+        ]
+      },
+      "id": "node/6308104500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328930240",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "60",
+        "addr:postcode": "15009",
+        "addr:street": "Rúa da Mercede",
+        "brand": "Familia",
+        "name": "Familia",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3937771,
+          43.3526658
+        ]
+      },
+      "id": "node/6328930240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328932176",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "1",
+        "addr:postcode": "15006",
+        "addr:street": "Rúa Juan Montes",
+        "brand": "Froiz",
+        "brand:wikidata": "Q17070775",
+        "brand:wikipedia": "en:Froiz",
+        "name": "Froiz",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3939224,
+          43.3535069
+        ]
+      },
+      "id": "node/6328932176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328951789",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "12",
+        "addr:postcode": "15010",
+        "addr:street": "Rúa Alcalde Lens",
+        "brand": "Familia",
+        "name": "Familia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4185438,
+          43.3610386
+        ]
+      },
+      "id": "node/6328951789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328954292",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "21",
+        "addr:postcode": "15010",
+        "addr:street": "Rúa Alcalde Liaño Flores",
+        "brand": "Familia",
+        "name": "Familia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.425197,
+          43.3624356
+        ]
+      },
+      "id": "node/6328954292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328965026",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "16",
+        "addr:postcode": "15005",
+        "addr:street": "Rúa Médico Durán",
+        "brand": "Froiz",
+        "brand:wikidata": "Q17070775",
+        "brand:wikipedia": "en:Froiz",
+        "name": "Froiz",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4082971,
+          43.3608329
+        ]
+      },
+      "id": "node/6328965026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6470938358",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "12-14-16",
+        "addr:postcode": "15011",
+        "addr:street": "Rúa Vila de Negreira",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski",
+        "old_name": "Eroski Center",
+        "opening_hours": "Mo-Sa 09:00-21:45",
+        "phone": "+34 981 27 58 80",
+        "shop": "supermarket",
+        "website": "https://www.eroski.es/localizador-de-tiendas/supermercado/a-coruna/a-coruna/eroskicenter-vila-de-negreira/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4193724,
+          43.3648239
+        ]
+      },
+      "id": "node/6470938358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6476162225",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "14",
+        "addr:postcode": "15003",
+        "addr:street": "Rúa San Andrés",
+        "brand": "Froiz",
+        "brand:wikidata": "Q17070775",
+        "brand:wikipedia": "en:Froiz",
+        "name": "Froiz",
+        "opening_hours": "09:30-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4008816,
+          43.3712355
+        ]
+      },
+      "id": "node/6476162225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6572881704",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "23",
+        "addr:postcode": "15001",
+        "addr:street": "Rúa Panadeiras",
+        "name": "Primaprix",
+        "opening_hours": "Mo-Sa 09:30-14:30,16:30-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3984606,
+          43.3727444
+        ]
+      },
+      "id": "node/6572881704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6572881705",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "15",
+        "addr:postcode": "15006",
+        "addr:street": "Rúa Alcalde Marchesi",
+        "name": "Primaprix",
+        "opening_hours": "Mo-Sa 09:30-14:30,16:30-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.403564,
+          43.3561253
+        ]
+      },
+      "id": "node/6572881705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573426783",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "2",
+        "addr:postcode": "15006",
+        "addr:street": "Rúa Ramón Pérez Costales",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4038185,
+          43.3577489
+        ]
+      },
+      "id": "node/6573426783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573813649",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "17",
+        "addr:postcode": "15001",
+        "addr:street": "Rúa Orillamar",
+        "brand": "Gadis",
+        "brand:wikidata": "Q114398305",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3950401,
+          43.374795
+        ]
+      },
+      "id": "node/6573813649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6590571394",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "5",
+        "addr:postcode": "15011",
+        "addr:street": "Praza Almirante Romay",
+        "name": "Claudio Express",
+        "opening_hours": "10:00-22:00",
+        "operator": "Claudio",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4195549,
+          43.371369
+        ]
+      },
+      "id": "node/6590571394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6620552640",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "38",
+        "addr:postcode": "15010",
+        "addr:street": "Rúa Agra do Orzán",
+        "alt_name": "Eroski Center",
+        "brand": "Eroski",
+        "brand:wikidata": "Q1361349",
+        "brand:wikipedia": "en:Eroski",
+        "name": "Eroski",
+        "opening_hours": "Mo-Sa 09:15-21:45",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4214895,
+          43.3619197
+        ]
+      },
+      "id": "node/6620552640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6788673813",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "2",
+        "addr:postcode": "15010",
+        "addr:street": "Rúa Cuba",
+        "brand": "Dia Market",
+        "brand:wikidata": "Q925132",
+        "brand:wikipedia": "es:Supermercados DIA",
+        "name": "Dia Market",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4200444,
+          43.3632142
+        ]
+      },
+      "id": "node/6788673813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6788673815",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "93",
+        "addr:postcode": "15007",
+        "addr:street": "Avenida de Arteixo",
+        "brand": "Covirán",
+        "brand:website": "https://www.coviran.es",
+        "brand:wikidata": "Q61070539",
+        "brand:wikipedia": "es:Covirán",
+        "name": "Covirán",
+        "name:es": "Covirán",
+        "name:pt": "Coviran",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4131552,
+          43.3562847
+        ]
+      },
+      "id": "node/6788673815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6788673816",
+        "addr:city": "Coruña",
+        "addr:housenumber": "23",
+        "addr:postcode": "15002",
+        "addr:street": "Rúa Ramón del Cueto",
+        "name": "Familia",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.400303,
+          43.3761911
+        ]
+      },
+      "id": "node/6788673816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6788673817",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "19",
+        "addr:postcode": "15001",
+        "addr:street": "Rúa de Santiago",
+        "brand": "Covirán",
+        "brand:website": "https://www.coviran.es",
+        "brand:wikidata": "Q61070539",
+        "brand:wikipedia": "es:Covirán",
+        "name": "Covirán",
+        "name:es": "Covirán",
+        "name:pt": "Coviran",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3940881,
+          43.3697681
+        ]
+      },
+      "id": "node/6788673817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6792885506",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "9",
+        "addr:postcode": "15005",
+        "addr:street": "Rúa Ramón de la Sagra",
+        "brand": "Covirán",
+        "brand:website": "https://www.coviran.es",
+        "brand:wikidata": "Q61070539",
+        "brand:wikipedia": "es:Covirán",
+        "name": "Covirán",
+        "name:es": "Covirán",
+        "name:pt": "Coviran",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4059735,
+          43.3608228
+        ]
+      },
+      "id": "node/6792885506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6912631590",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "6-8",
+        "addr:postcode": "15005",
+        "addr:street": "Rúa Doutor Fleming",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "level": "0",
+        "name": "Gadis",
+        "opening_hours": "Mo-Sa 09:00-15:00,17:30-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4088471,
+          43.3603491
+        ]
+      },
+      "id": "node/6912631590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7415350891",
+        "brand": "Covirán",
+        "brand:website": "https://www.coviran.es",
+        "brand:wikidata": "Q61070539",
+        "brand:wikipedia": "es:Covirán",
+        "name": "Covirán",
+        "name:es": "Covirán",
+        "name:pt": "Coviran",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4350288,
+          43.3730282
+        ]
+      },
+      "id": "node/7415350891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7533461939",
+        "brand": "Covirán",
+        "brand:website": "https://www.coviran.es",
+        "brand:wikidata": "Q61070539",
+        "brand:wikipedia": "es:Covirán",
+        "name": "Covirán",
+        "name:pt": "Coviran",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4081415,
+          43.3799445
+        ]
+      },
+      "id": "node/7533461939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7894833176",
+        "brand": "Gadis",
+        "brand:wikidata": "Q12389151",
+        "brand:wikipedia": "gl:Gadisa",
+        "name": "Gadis",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4175535,
+          43.3607878
+        ]
+      },
+      "id": "node/7894833176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7917364723",
+        "brand": "Dia Market",
+        "brand:wikidata": "Q925132",
+        "brand:wikipedia": "es:Supermercados DIA",
+        "name": "Dia Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4228721,
+          43.3608104
+        ]
+      },
+      "id": "node/7917364723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8000280435",
+        "brand": "Covirán",
+        "brand:website": "https://www.coviran.es",
+        "brand:wikidata": "Q61070539",
+        "brand:wikipedia": "es:Covirán",
+        "name": "Covirán",
+        "name:pt": "Coviran",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3906893,
+          43.3531875
+        ]
+      },
+      "id": "node/8000280435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689983141",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "69",
+        "addr:postcode": "15007",
+        "addr:street": "Rúa San Vicente",
+        "name": "Spar Express",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Grupo Cuevas",
+        "shop": "supermarket",
+        "start_date": "2022-04-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4124852,
+          43.3524466
+        ]
+      },
+      "id": "node/9689983141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10026995198",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "20",
+        "addr:postcode": "15004",
+        "addr:street": "Rúa Fernando Macías",
+        "name": "Primaprix",
+        "opening_hours": "Mo-Sa 09:30-21:30",
+        "shop": "supermarket",
+        "start_date": "2022-07-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4126949,
+          43.3664055
+        ]
+      },
+      "id": "node/10026995198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11121515622",
+        "addr:city": "A Coruña",
+        "addr:housenumber": "32",
+        "addr:postcode": "15011",
+        "addr:street": "Rúa San Pedro de Visma",
+        "name": "PS ZEYSE ALIMENTACIÓN",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4299007,
+          43.3683024
+        ]
+      },
+      "id": "node/11121515622"
+    }
+  ]
+}

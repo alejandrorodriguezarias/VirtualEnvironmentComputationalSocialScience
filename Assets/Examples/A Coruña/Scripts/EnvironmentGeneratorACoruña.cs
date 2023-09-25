@@ -97,4 +97,10 @@ public class EnvironmentGeneratorACoruña : EnvironmentGenerator
         Features features = ((JObject)buildingData["properties"]).ToObject<Features>();
         building.GetComponent<Place>().type = features.building;
     }
+
+    protected override void FeedNodeWithData(JObject buildingData, GameObject building)
+    {
+        NodeFeatures features = ((JObject)buildingData["properties"]).ToObject<NodeFeatures>();
+        building.GetComponent<Place>().type = features.shop;
+    }
 }
