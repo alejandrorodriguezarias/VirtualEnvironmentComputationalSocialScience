@@ -21,15 +21,15 @@ public class EnvironmentGeneratorVitoria : EnvironmentGenerator
             ICollection<Triangle> triangles = polygons[secRef[censusDataSec.secRef]];
             Triangle[] triangleArray = new Triangle[triangles.Count];
             triangles.CopyTo(triangleArray, 0);
-            int maleOver65 = censusDataSec.t7_3 / 10;
+            int maleOver65 = censusDataSec.e_64_h / 10;
             CreateMaleOver65(maleOver65, currentNumberAgents, censusDataSec.secRef, triangleArray);
-            int maleUnder65 = censusDataSec.t7_2 / 10;
+            int maleUnder65 = censusDataSec.e45_64_h / 10;
             currentNumberAgents = currentNumberAgents + maleOver65;
             CreateMaleUnder65(maleUnder65, currentNumberAgents, censusDataSec.secRef, triangleArray);
-            int femaleOver65 = censusDataSec.t7_6 / 10;
+            int femaleOver65 = censusDataSec.e_64_m / 10;
             currentNumberAgents = currentNumberAgents + maleUnder65;
             CreateFemaleOver65(femaleOver65, currentNumberAgents, censusDataSec.secRef, triangleArray);
-            int femaleUnder65 = censusDataSec.t7_5 / 10;
+            int femaleUnder65 = censusDataSec.e45_64_m / 10;
             currentNumberAgents = currentNumberAgents + femaleOver65;
             CreateFemaleUnder65(femaleUnder65, currentNumberAgents, censusDataSec.secRef, triangleArray);
             currentNumberAgents = currentNumberAgents + femaleUnder65;
@@ -94,7 +94,8 @@ public class EnvironmentGeneratorVitoria : EnvironmentGenerator
 
     protected override void FeedBuildingWithData(JObject buildingData, GameObject building)
     {
-        throw new NotImplementedException();
+        Features features = ((JObject)buildingData["properties"]).ToObject<Features>();
+        building.GetComponent<Place>().type = features.building;
     }
 
     protected override void FeedNodeWithData(JObject buildingData, GameObject building)

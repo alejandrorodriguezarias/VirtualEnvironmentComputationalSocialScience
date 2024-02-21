@@ -57,7 +57,10 @@ namespace SEGAR {
             try
             {
                 CreateCitySections();
+
+                //Uncomment this line to see the polygons of your geographical divisions. 
                 //DebugSections();
+
                 CreateNodes();
                 CreateBuildings();
                 CreateRoads();
@@ -71,8 +74,32 @@ namespace SEGAR {
             }
         }
 
+
+        public Triangle ChooseRandomTriangle(Triangle[] triangles)
+        {
+            return triangles[UnityEngine.Random.Range(0, triangles.Length)];
+        }
+
+
         /// <summary>
-        /// Reads the JSON file of the census tracts and generates the array of polygons.
+        /// Reads the JSON file of the buildings and generate the building objects
+        /// </summary>
+        public void CreateBuildings()
+        {
+
+            JObject places = JObject.Parse(placesData.text);
+            JArray placesArray = (JArray)places["relevantPlacesData"];
+
+            int i = 0;
+            foreach (JObject relevantPlace in placesArray)
+            {
+                CreateBuilding(relevantPlace, i);
+                i++;
+            }
+        }
+
+        /// <summary>
+        /// Reads the JSON file of the divisions and generates the array of polygons.
         /// </summary>
         public void CreateCitySections()
         {
@@ -80,6 +107,56 @@ namespace SEGAR {
             JArray sectionsArray = (JArray)sections["sectionsData"];
             polygons = GeneratePolygons(sectionsArray);
         }
+
+        /// <summary>
+        /// Reads the JSON file of the census tracts and generates the node objects
+        /// </summary>
+        public void CreateNodes()
+        {
+
+            JObject places = JObject.Parse(nodesData.text);
+            JArray placesArray = (JArray)places["relevantPlacesData"];
+
+            int i = 0;
+            foreach (JObject relevantPlace in placesArray)
+            {
+                CreateNode(relevantPlace, i);
+                i++;
+            }
+        }
+        /// <summary>
+        ///  Reads the JSON file of the census tracts and generates the road objects
+        /// </summary>
+        public void CreateRoads()
+        {
+
+            JObject roads = JObject.Parse(roadsData.text);
+            JArray roadsArray = (JArray)roads["relevantRoadsData"];
+
+            int i = 0;
+            foreach (JObject relevantRoad in roadsArray)
+            {
+                CreateRoad(relevantRoad, i);
+                i++;
+            }
+        }
+        /// <summary>
+        /// Shows the shape of the irregular polygons in the scene.
+        /// </summary>
+        public void DebugSections()
+        {
+
+            JObject places = JObject.Parse(sectionsData.text);
+            JArray placesArray = (JArray)places["sectionsData"];
+
+            int i = 0;
+            foreach (JObject relevantPlace in placesArray)
+            {
+                DebugSection(relevantPlace, i);
+                i++;
+            }
+        }
+
 
         /// <summary>
         /// Generates te city polygons and triangulate then using the Delaunay triangulation
@@ -119,62 +196,6 @@ namespace SEGAR {
             return polygons;
         }
 
-        public void CreateBuildings()
-        {
-
-            JObject places = JObject.Parse(placesData.text);
-            JArray placesArray = (JArray)places["relevantPlacesData"];
-
-            int i = 0;
-            foreach (JObject relevantPlace in placesArray)
-            {
-                CreateBuilding(relevantPlace, i);
-                i++;
-            }
-        }
-
-        public void CreateNodes()
-        {
-
-            JObject places = JObject.Parse(nodesData.text);
-            JArray placesArray = (JArray)places["relevantPlacesData"];
-
-            int i = 0;
-            foreach (JObject relevantPlace in placesArray)
-            {
-                CreateNode(relevantPlace, i);
-                i++;
-            }
-        }
-
-        public void DebugSections()
-        {
-
-            JObject places = JObject.Parse(sectionsData.text);
-            JArray placesArray = (JArray)places["sectionsData"];
-
-            int i = 0;
-            foreach (JObject relevantPlace in placesArray)
-            {
-                DebugSection(relevantPlace, i);
-                i++;
-            }
-        }
-
-        public void CreateRoads()
-        {
-
-            JObject roads = JObject.Parse(roadsData.text);
-            JArray roadsArray = (JArray)roads["relevantRoadsData"];
-
-            int i = 0;
-            foreach (JObject relevantRoad in roadsArray)
-            {
-                CreateRoad(relevantRoad, i);
-                i++;
-            }
-        }
-
 
         /// <summary>
         /// Calculates a point in the Unity virtual environment that lies within the given triangle.
@@ -197,17 +218,11 @@ namespace SEGAR {
 
         }
 
-        public Triangle ChooseRandomTriangle(Triangle[] triangles)
-        {
-            return triangles[UnityEngine.Random.Range(0, triangles.Length)];
-        }
-
         /// <summary>
-        /// This method must create the agents of the model and must be implemented by any model using
-        /// this environment.
+        /// For each relevant building, a building object is generated with a mesh that occupies the entire space marked by its coordinates.
         /// </summary>
-        abstract protected void CreateSimulatedAgents();
-
+        /// <param name="relevantPlace">Json object with the relevant information to create a building</param>
+        /// <param name="id">internal id of the building. It only serves to name the building</param>
         protected void CreateBuilding(JObject relevantPlace, int id)
         {
             GameObject polygon = new GameObject("Building");
@@ -257,15 +272,20 @@ namespace SEGAR {
 
         }
 
-        protected void DebugSection(JObject relevantPlace, int id)
+        /// <summary>
+        /// Creates the shape of each irregular polygon and displays it in the scene.
+        /// </summary>
+        /// <param name="division">A JSON object representing a political division</param>
+        /// <param name="id">internal id of the division. It only serves to name the division</param>
+        protected void DebugSection(JObject division, int id)
         {
-            GameObject polygon = new GameObject("Building");
+            GameObject polygon = new GameObject("Division" + id);
             MeshFilter meshFilter = polygon.AddComponent<MeshFilter>();
             MeshRenderer meshRenderer = polygon.AddComponent<MeshRenderer>();
 
             Mesh mesh = new Mesh();
             meshFilter.mesh = mesh;
-            Geometry geometry = ((JObject)relevantPlace["geometry"]).ToObject<Geometry>();
+            Geometry geometry = ((JObject)division["geometry"]).ToObject<Geometry>();
             Polygon poly = new Polygon();
             for (int i = 0; i < geometry.coordinates.Length; i++)
             {
@@ -298,10 +318,14 @@ namespace SEGAR {
                 mesh.RecalculateNormals();
                 meshRenderer.material.color = UnityEngine.Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
             }
-
-
-
         }
+
+
+        /// <summary>
+        /// Create a road object whose mesh occupies the given coordinates.
+        /// </summary>
+        /// <param name="road">Json object with the road info</param>
+        /// <param name="id">internal id of the road. It only serves to name the road</param>
         protected void CreateRoad(JObject road, int id)
         {
 
@@ -376,9 +400,11 @@ namespace SEGAR {
             }
         }
 
-        abstract protected void FeedBuildingWithData(JObject buildingData, GameObject building);
-        abstract protected void FeedNodeWithData(JObject buildingData, GameObject building);
-
+        /// <summary>
+        /// Create a node in the given coordinates
+        /// </summary>
+        /// <param name="road">Json object with the node info</param>
+        /// <param name="id">internal id of the node It only serves to name the node</param>
         public void CreateNode(JObject relevantPlace, int id) {
             GeometryNodes geometry = ((JObject)relevantPlace["geometry"]).ToObject<GeometryNodes>();
             GameObject place = Instantiate(placePrefab);
@@ -386,6 +412,15 @@ namespace SEGAR {
             place.transform.position = new Vector3(Util.NormalizedMinMax(geometry.coordinates[0], xCoordMin, xCoordMax, newXCoordMin, newXCoordMax) * 1000, 0, Util.NormalizedMinMax(geometry.coordinates[1], zCoordMin, zCoordMax, newZCoordMin, newZCoordMax) * 1000);
             FeedNodeWithData(relevantPlace, place);
         }
+
+        /// <summary>
+        /// This method must create the agents of the model and must be implemented by any model using
+        /// this environment.
+        /// </summary>
+        abstract protected void CreateSimulatedAgents();
+        abstract protected void FeedBuildingWithData(JObject buildingData, GameObject building);
+        abstract protected void FeedNodeWithData(JObject buildingData, GameObject building);
+
     }
 
 }
